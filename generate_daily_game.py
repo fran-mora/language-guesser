@@ -14,7 +14,7 @@ def job(t):
 	for i in range(5):
 		game['games'].append(get_word())
 
-	util.writejson(game, 'data/game.json')
+	util.save(game, 'data/game.pkl')
 
 
 schedule.every().day.at("00:01").do(job,'It is 00:01')
