@@ -14,10 +14,13 @@ def job(t):
 	for i in range(5):
 		game['games'].append(get_word())
 
-	util.save(game, 'data/game.pkl')
+	util.writejson(game, 'data/game.json')
 
 
 schedule.every().day.at("00:01").do(job,'It is 00:01')
+
+if 'game.json' not in util.files('data'):
+	job(0)
 
 while True:
     schedule.run_pending()

@@ -88,7 +88,7 @@ def writelines(lines, filename, bin=False):
     write('\n'.join(lines), filename, bin=bin)
 
 def readlines(filename):
-    f = open(filename, 'r')
+    f = open(filename, 'r', encoding="utf-8")
     sents = [x[:-1] for x in f.readlines()]
     f.close()
     return sents

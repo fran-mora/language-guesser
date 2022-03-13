@@ -8,7 +8,7 @@ import json
 from game import LANGUAGES
 LANGUAGES = sorted(list(LANGUAGES.values()))
 
-today_game = util.load('data/game.pkl')
+today_game = util.readjson('data/game.json')
 
 
 # creates a Flask application, named app
