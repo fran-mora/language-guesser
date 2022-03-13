@@ -10,6 +10,8 @@ LANGUAGES = sorted(list(LANGUAGES.values()))
 
 today_game = util.readjson('data/game.json')
 
+DOTS = ['🟢', '🟡', '🔴', '⚫'];
+
 
 # creates a Flask application, named app
 app = Flask(__name__)
@@ -30,7 +32,10 @@ def guess():
     games = session['games']
     true_lang = today_game['games'][len(games)-1][1]
     session['games'][-1].add(lang)
+    if len(session['games'][-1]) == 3:
+        return 'finished'
     return 'done'
+
 
 
 @app.route('/next',methods = ['GET'])
@@ -39,18 +44,17 @@ def next():
     games = session['games']
     true_lang = today_game['games'][len(games)-1][1]
     
-    if true_lang in session['games'][-1]:
-        session['games'].append(set())
+    session['games'].append(set())
     return 'done'
 
 
 @app.route('/get_status',methods = ['GET'])
-def get_status():
+def get_status():    
     return json.dumps({
         'guesses': list(session['games'][-1]),
-        'progress': int((len(session['games'])-1) / len(today_game['games']) * 100)
+        'progress': int((len(session['games'])-1) / len(today_game['games']) * 100),
+        'score': ''.join([DOTS[len(x)-1] if today_game['games'][i][1] in x else DOTS[-1] for i,x in enumerate(session['games']) if len(x)])
     })
-
 
 
 # a route where we will display a welcome message via an HTML template

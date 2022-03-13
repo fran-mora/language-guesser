@@ -25,6 +25,7 @@
                   <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width: {{progress}}%" ></div>
                 </div>
                 <br>
+                <div id="dots" class="centered"></div>
                 <h2 class="word centered">{{word}}</h2>
                 <br>
                 <div class="row">
@@ -51,14 +52,23 @@
         var finished = false;
         var audio = new Audio('/static/success.m4a');
 
+
         $(document).ready(function(){
 
             $.get("get_status", function(data){
                 data = JSON.parse(data);
                 guesses = data['guesses'];
                 progress = data['progress'];
+                score = data['score'];
                 $(".progress-bar").css("width", progress + "%");
-
+                $('#dots').html(score);
+                // alert(guesses)
+                console.log(guesses.length);
+                if (guesses.length >= 3){
+                    $('#'+LANGUAGE).addClass('alert alert-secondary');
+                    finished = true;
+                    $('#next').show();
+                }
                 guesses.forEach(guess => {
                     if (guess == LANGUAGE){
                         $('#'+guess).addClass('alert alert-success');
@@ -67,7 +77,9 @@
                     }
                     else
                         $('#'+guess).addClass('alert alert-danger');
+
                 });
+                console.log(guesses);
 
             });
             $('.lang').click(function(){
@@ -75,7 +87,7 @@
                     var button = $(this);
                     var lang = button.html()
 
-                    $.post( "guess", { language: lang }, function( data ) {
+                    $.post( "guess", { language: lang }, function( res ) {
                         if (lang == LANGUAGE){
                             button.addClass('alert alert-success');
                             $('#next').show();
@@ -83,6 +95,11 @@
                             finished = true;
                         }
                         else {
+                            if (res == 'finished'){
+                                finished = true;
+                                $('#next').show();
+                                $('#' + LANGUAGE).addClass('alert alert-secondary');
+                            }
                             button.addClass('alert alert-danger');
                         }
                     });
