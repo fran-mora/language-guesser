@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Daisy's Language Guesser</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <script
+                src="https://code.jquery.com/jquery-3.5.1.js"
+                integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+                crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="/static/style.css">
+        <style>
+        </style>
+    </head>
+    <body>
+    <br/>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h1>Daisy's Language Guesser</h1>
+                <br>
+                <br>
+                <h2 class="word centered">{{word}}</h2>
+                <br>
+                <!-- <h2>{{language}}</h2> -->
+               <!--  <div class="form-group">
+                    <div class="input-group">
+                        <select name="comp_select" class="selectpicker form-control">
+                          {% for l in languages %}
+                          <option value="{{ l }}">{{ l }}</option>
+                          {% endfor %}
+                        </select>
+                    </div>
+                </div> -->
+                <!-- <table class="table centered"> -->
+                    <div class="row">
+                        {% for l in languages %}
+                        <div class="col-6 col-sm-4 col-md-4 col-lg-3 col-xl-2">
+                            <div class="lang centered">{{l}}</div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    <!-- <tr>
+                        <td class="lang">English</td>
+                        <td class="lang">Italian</td>
+                        <td class="lang">asd</td>
+                    </tr> -->
+                <!-- </table> -->
+
+                <!-- <h2>{{languages}}</h2> -->
+            <div id='correct' class="alert alert-success" role="alert" style="display: none;">
+              Correct!
+            </div>
+            <div id='incorrect' class="alert alert-danger" role="alert" style="display: none;">
+              Incorrect
+            </div>
+
+            <h2 class="centered"><a id='next' href='?' style="display: none;">Next</a></h2>
+            </div>
+<!--             <div class="col-xl-2 col-lg-1 col-md-0 col-sm-0"></div>
+            <div class="col-xl-3 col-lg-4 col-md-5 col-sm-5 col-12"></div>-->
+        </div>
+    </div>
+    <script>
+        var language = "{{language}}";
+        console.log(language);
+
+            
+        $(document).ready(function(){
+
+
+            // $('select').on('change', function() {
+            //     $('#correct').hide();
+            //     $('#incorrect').hide();
+            //     if (this.value == language){
+            //         $('#correct').show();
+            //         $('#next').show();
+            //         var audio = new Audio('/static/success.m4a');
+            //         audio.play();
+            //     }
+            //     else {
+            //         $('#incorrect').show();
+            //     }
+            // });
+
+
+            $('.lang').click(function(){
+                if ($(this).html() == language){
+                    $(this).addClass('alert alert-success');
+                    $('#next').show();
+                    var audio = new Audio('/static/success.m4a');
+                    audio.play();
+                }
+                else {
+                    $(this).addClass('alert alert-danger');
+                }
+            });
+        });
+    </script>
+    </body>
+</html>
