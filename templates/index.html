@@ -21,81 +21,78 @@
             <div class="col-12">
                 <h1>Daisy's Language Guesser</h1>
                 <br>
+                <div class="progress">
+                  <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width: {{progress}}%" ></div>
+                </div>
                 <br>
                 <h2 class="word centered">{{word}}</h2>
                 <br>
-                <!-- <h2>{{language}}</h2> -->
-               <!--  <div class="form-group">
-                    <div class="input-group">
-                        <select name="comp_select" class="selectpicker form-control">
-                          {% for l in languages %}
-                          <option value="{{ l }}">{{ l }}</option>
-                          {% endfor %}
-                        </select>
+                <div class="row">
+                    {% for l in languages %}
+                    <div class="col-6 col-sm-4 col-md-4 col-lg-3 col-xl-2">
+                        <div id="{{l}}" class="lang centered">{{l}}</div>
                     </div>
-                </div> -->
-                <!-- <table class="table centered"> -->
-                    <div class="row">
-                        {% for l in languages %}
-                        <div class="col-6 col-sm-4 col-md-4 col-lg-3 col-xl-2">
-                            <div class="lang centered">{{l}}</div>
-                        </div>
-                        {% endfor %}
-                    </div>
-                    <!-- <tr>
-                        <td class="lang">English</td>
-                        <td class="lang">Italian</td>
-                        <td class="lang">asd</td>
-                    </tr> -->
-                <!-- </table> -->
-
-                <!-- <h2>{{languages}}</h2> -->
+                    {% endfor %}
+                </div>
             <div id='correct' class="alert alert-success" role="alert" style="display: none;">
               Correct!
             </div>
             <div id='incorrect' class="alert alert-danger" role="alert" style="display: none;">
               Incorrect
             </div>
-
-            <h2 class="centered"><a id='next' href='?' style="display: none;">Next</a></h2>
+            <br >
+            <h2 class="centered"><a id='next' href='#' style="display: none;">Next</a></h2>
             </div>
-<!--             <div class="col-xl-2 col-lg-1 col-md-0 col-sm-0"></div>
-            <div class="col-xl-3 col-lg-4 col-md-5 col-sm-5 col-12"></div>-->
         </div>
     </div>
-    <script>
-        var language = "{{language}}";
-        console.log(language);
 
-            
+    <script>
+        var LANGUAGE = "{{language}}";
+        var finished = false;
+        var audio = new Audio('/static/success.m4a');
+
         $(document).ready(function(){
 
+            $.get("get_status", function(data){
+                data = JSON.parse(data);
+                guesses = data['guesses'];
+                progress = data['progress'];
+                $(".progress-bar").css("width", progress + "%");
 
-            // $('select').on('change', function() {
-            //     $('#correct').hide();
-            //     $('#incorrect').hide();
-            //     if (this.value == language){
-            //         $('#correct').show();
-            //         $('#next').show();
-            //         var audio = new Audio('/static/success.m4a');
-            //         audio.play();
-            //     }
-            //     else {
-            //         $('#incorrect').show();
-            //     }
-            // });
+                guesses.forEach(guess => {
+                    if (guess == LANGUAGE){
+                        $('#'+guess).addClass('alert alert-success');
+                        finished = true;
+                        $('#next').show();
+                    }
+                    else
+                        $('#'+guess).addClass('alert alert-danger');
+                });
 
-
+            });
             $('.lang').click(function(){
-                if ($(this).html() == language){
-                    $(this).addClass('alert alert-success');
-                    $('#next').show();
-                    var audio = new Audio('/static/success.m4a');
-                    audio.play();
+                if (!finished){
+                    var button = $(this);
+                    var lang = button.html()
+
+                    $.post( "guess", { language: lang }, function( data ) {
+                        if (lang == LANGUAGE){
+                            button.addClass('alert alert-success');
+                            $('#next').show();
+                            audio.play();
+                            finished = true;
+                        }
+                        else {
+                            button.addClass('alert alert-danger');
+                        }
+                    });
                 }
-                else {
-                    $(this).addClass('alert alert-danger');
-                }
+            });
+
+            $('#next').click(function(){
+                $.get("next", function(){
+                    window.location.href = "/";
+                });
             });
         });
     </script>

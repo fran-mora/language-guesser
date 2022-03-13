@@ -27,7 +27,7 @@ LANGUAGES = {
  'th': 'Thai',
  'tr': 'Turkish',
  'vi': 'Vietnamese',
- 'zh_cn': 'Chinese',
+ 'zh_cn': 'Mandarin',
 }
 
 data = [json.loads(line) for line in util.readlines('data/mkqa.jsonl')]
