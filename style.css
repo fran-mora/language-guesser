@@ -1,0 +1,28 @@
+body{
+    font-family: monospace;
+}
+
+.centered{
+      text-align: center;
+}
+
+.lang {
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid rgb(158, 150, 137);
+    border-radius: 5px;
+    font-size: 14pt;
+    cursor: pointer;
+}
+
+.incorrect{
+    background-color: red;
+
+}
+
+.word{
+}
+
+#dots{
+    font-size: 20pt;
+}

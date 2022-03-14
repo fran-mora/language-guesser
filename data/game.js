@@ -1,25 +1,51 @@
-var game = {
-  "date": "2022-03-13",
+var GAME = {
+  "date": "2022-03-14",
   "games": [
     [
-      "vengono",
-      "Italian"
+      "stiefschwestern",
+      "German"
     ],
     [
-      "\ubb34\uc5c7\uc785\ub2c8\uae4c",
+      "ngh\u1ec9",
+      "Vietnamese"
+    ],
+    [
+      "xu\u1ea5t",
+      "Vietnamese"
+    ],
+    [
+      "\u179f\u17d2\u179b\u17b6\u1794\u17cb\u1793\u17c5",
+      "Cambodian"
+    ],
+    [
+      "pacs\uac00",
       "Korean"
-    ],
-    [
-      "\u00e9tat",
-      "French"
-    ],
-    [
-      "laillinen",
-      "Finnish"
-    ],
-    [
-      "giochi",
-      "Italian"
     ]
+  ],
+  "languages": [
+    "Arabic",
+    "Cambodian",
+    "Danish",
+    "Dutch",
+    "English",
+    "Finnish",
+    "French",
+    "German",
+    "Hebrew",
+    "Hungarian",
+    "Italian",
+    "Japanese",
+    "Korean",
+    "Malay",
+    "Mandarin",
+    "Norwegian",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "Spanish",
+    "Swedish",
+    "Thai",
+    "Turkish",
+    "Vietnamese"
   ]
 }
