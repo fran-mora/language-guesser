@@ -82,33 +82,33 @@
 
         $(document).ready(function(){
 
-            $.get("get_status", function(data){
-                data = JSON.parse(data);
-                guesses = data['guesses'];
-                progress = data['progress'];
-                score = data['score'];
-                $(".progress-bar").css("width", progress + "%");
-                $('#dots').html(score);
-                // alert(guesses)
-                console.log(guesses.length);
-                if (guesses.length >= 3){
-                    $('#'+LANGUAGE).addClass('alert alert-secondary');
-                    finished = true;
-                    $('#next').show();
-                }
-                guesses.forEach(guess => {
-                    if (guess == LANGUAGE){
-                        $('#'+guess).addClass('alert alert-success');
-                        finished = true;
-                        $('#next').show();
-                    }
-                    else
-                        $('#'+guess).addClass('alert alert-danger');
+            // $.get("get_status", function(data){
+            //     data = JSON.parse(data);
+            //     guesses = data['guesses'];
+            //     progress = data['progress'];
+            //     score = data['score'];
+            //     $(".progress-bar").css("width", progress + "%");
+            //     $('#dots').html(score);
+            //     // alert(guesses)
+            //     console.log(guesses.length);
+            //     if (guesses.length >= 3){
+            //         $('#'+LANGUAGE).addClass('alert alert-secondary');
+            //         finished = true;
+            //         $('#next').show();
+            //     }
+            //     guesses.forEach(guess => {
+            //         if (guess == LANGUAGE){
+            //             $('#'+guess).addClass('alert alert-success');
+            //             finished = true;
+            //             $('#next').show();
+            //         }
+            //         else
+            //             $('#'+guess).addClass('alert alert-danger');
 
-                });
-                console.log(guesses);
+            //     });
+            //     console.log(guesses);
 
-            });
+            // });
             $('.lang').click(function(){
                 if (!finished){
                     var button = $(this);
