@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "7EREG",
+  "id": "EL7Z9",
   "games": [
     [
-      "fjellene",
-      "Norwegian"
+      "schnellste",
+      "German"
     ],
     [
-      "\uc54c\ubc14\ub2c8\uc544\uc5d0\uc11c",
+      "capturar",
+      "Portuguese"
+    ],
+    [
+      "s\u00e5v\u00e4l",
+      "Swedish"
+    ],
+    [
+      "haklar\u0131na",
+      "Turkish"
+    ],
+    [
+      "\uc704\uce58\ud558\uace0",
       "Korean"
-    ],
-    [
-      "\uc2ec\uc2a8\uc5d0\uc11c",
-      "Korean"
-    ],
-    [
-      "qui\u00e9n",
-      "Spanish"
-    ],
-    [
-      "\u5186\u5353\u306e\u9a0e\u58eb\u305f\u3061\u306e\u540d\u524d\u306f\uff1f",
-      "Japanese"
     ]
   ],
   "languages": [
