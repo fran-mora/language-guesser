@@ -12,6 +12,34 @@
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
         <link rel="stylesheet" href="/style.css">
         <style>
+            body{
+        font-family: monospace;
+}
+
+.centered{
+      text-align: center;
+}
+
+.lang {
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid rgb(158, 150, 137);
+    border-radius: 5px;
+    font-size: 14pt;
+    cursor: pointer;
+}
+
+.incorrect{
+    background-color: red;
+
+}
+
+.word{
+}
+
+#dots{
+    font-size: 20pt;
+}
         </style>
     </head>
     <body>
@@ -46,6 +74,7 @@
             </div>
         </div>
     </div>
+    <script type="text/javascript" src="data/game.json"></script>
 
     <script>
         var LANGUAGE = "{{language}}";
