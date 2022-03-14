@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "QAWAI",
+  "id": "7EREG",
   "games": [
     [
-      "\u178a\u17c2\u179b\u1787\u17b6\u1780\u1793\u17d2\u179b\u17c2\u1784\u178a\u17c2\u179b\u1793\u17c5\u1780\u17d2\u1793\u17bb\u1784\u1794\u17b6\u17a0\u17b6\u1798\u17c9\u17b6\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u1782\u17c1\u1790\u17d2\u1782\u17b6\u1798",
-      "Cambodian"
+      "fjellene",
+      "Norwegian"
     ],
     [
-      "\u05d4\u05dc\u05d9\u05dc\u05d4",
-      "Hebrew"
+      "\uc54c\ubc14\ub2c8\uc544\uc5d0\uc11c",
+      "Korean"
     ],
     [
-      "\u043f\u043e\u0435\u0442",
-      "Russian"
+      "\uc2ec\uc2a8\uc5d0\uc11c",
+      "Korean"
     ],
     [
-      "mana",
-      "Malay"
+      "qui\u00e9n",
+      "Spanish"
     ],
     [
-      "\u0430\u043b\u044c\u0431\u043e\u043c",
-      "Russian"
+      "\u5186\u5353\u306e\u9a0e\u58eb\u305f\u3061\u306e\u540d\u524d\u306f\uff1f",
+      "Japanese"
     ]
   ],
   "languages": [
