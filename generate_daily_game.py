@@ -29,8 +29,7 @@ def job(t):
 
 schedule.every().day.at("00:01").do(job,'It is 00:01')
 
-if 'game.json' not in util.files('data'):
-	job(0)
+job(0)
 
 while True:
     schedule.run_pending()
