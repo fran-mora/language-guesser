@@ -63,7 +63,7 @@ def index():
     print(util.red(session))
     if not session.get('games') or session['date'] != today_game['date']:
         session['games'] = [set()]
-        session['date'] = str(date.today())
+        session['date'] = today_game['date']
 
     current_game = len(session['games'])-1
     progress = int((len(session['games'])-2) / len(today_game['games']) * 100)
