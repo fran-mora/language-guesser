@@ -25,4 +25,5 @@ body{
 
 #dots{
     font-size: 20pt;
+    cursor: pointer;
 }
