@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "EL7Z9",
+  "id": "1R873",
   "games": [
     [
-      "schnellste",
-      "German"
-    ],
-    [
-      "capturar",
-      "Portuguese"
-    ],
-    [
-      "s\u00e5v\u00e4l",
+      "vilka",
       "Swedish"
     ],
     [
-      "haklar\u0131na",
-      "Turkish"
+      "kuka",
+      "Finnish"
     ],
     [
-      "\uc704\uce58\ud558\uace0",
+      "\ub204\uc6cc\uc788\uc2b5\ub2c8\ub2e4\ub97c",
       "Korean"
+    ],
+    [
+      "mapy",
+      "Polish"
+    ],
+    [
+      "saapuivat",
+      "Finnish"
     ]
   ],
   "languages": [
