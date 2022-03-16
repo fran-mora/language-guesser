@@ -6,11 +6,13 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
         <script
                 src="https://code.jquery.com/jquery-3.5.1.js"
                 integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
                 crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
@@ -24,7 +26,7 @@
                   <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width: 0%" ></div>
                 </div>
                 <br>
-                <div id="dots" class="centered"></div>
+                <div id="dots" class="centered" data-toggle="tooltip" title="Click to copy!" onclick="copyDivToClipboard()"></div>
                 <h2 id="all-done" style="display: none;">All done for today!</h2>
                 <h2 id="word" class="word centered"></h2>
                 <br>
@@ -39,6 +41,15 @@
     <script type="text/javascript" src="data/game.js"></script>
 
     <script>
+        function copyDivToClipboard() {
+            var range = document.createRange();
+            range.selectNode(document.getElementById("dots"));
+            window.getSelection().removeAllRanges(); // clear current selection
+            window.getSelection().addRange(range); // to select text
+            document.execCommand("copy");
+            window.getSelection().removeAllRanges();// to deselect
+        }
+
         var DOTS = ['🟢', '🟡', '🔴', '⚫'];
         function get_score(games, GAME){
             var score = '';
@@ -53,31 +64,33 @@
             return score;
         }
 
-        // localStorage.clear();
-        if ((!'games' in localStorage) || localStorage['id'] != GAME['id']){
-            localStorage['games'] = JSON.stringify([[]]);
-            localStorage['id'] = GAME['id'];
-        }
+        $(document).ready(function(){
+            $('[data-toggle="tooltip"]').tooltip();   
 
-        var games = JSON.parse(localStorage['games']);
-        var current_game_id = games.length-1;
-        var current_game = games[current_game_id];
-        
-        if (current_game_id >= GAME['games'].length){
-            // finished
-            $('#all-done').show();
-            $('#dots').html(get_score(games, GAME));
-            var progress = parseInt((games.length-1) / GAME['games'].length * 100);
-            $(".progress-bar").css("width", progress + "%");
-            $(".progress-bar").addClass('bg-success');
-        } 
-        else {
-            var word = GAME['games'][current_game_id][0];
-            var true_language = GAME['games'][current_game_id][1];
-            
+            // localStorage.clear();
+            if ((!'games' in localStorage) || localStorage['id'] != GAME['id']){
+                localStorage['games'] = JSON.stringify([[]]);
+                localStorage['id'] = GAME['id'];
+            }
 
-            var finished = false;
-            $(document).ready(function(){
+            var games = JSON.parse(localStorage['games']);
+            var current_game_id = games.length-1;
+            var current_game = games[current_game_id];
+
+            if (current_game_id >= GAME['games'].length){
+                // finished
+                $('#all-done').show();
+                $('#dots').html(get_score(games, GAME));
+                var progress = parseInt((games.length-1) / GAME['games'].length * 100);
+                $(".progress-bar").css("width", progress + "%");
+                $(".progress-bar").addClass('bg-success');
+            } 
+            else {
+                var word = GAME['games'][current_game_id][0];
+                var true_language = GAME['games'][current_game_id][1];
+                
+
+                var finished = false;
 
                 $('#word').html(word);
                 var languages_html = ''
@@ -139,8 +152,8 @@
                     localStorage['games'] = JSON.stringify(games);    
                     window.location.href = "?";
                 });
-            });
-        }
+            }
+        });
     </script>
     </body>
 </html>
