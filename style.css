@@ -1,5 +1,8 @@
 body{
     font-family: monospace;
+    backgr/*ound-image: url('images/International_Flag_of_Planet_Earth.svg');
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-si*/ze: cover; /* Resize the background image to cover the entire container */
 }
 
 .centered{
