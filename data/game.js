@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "1ZOW4",
+  "id": "TTXN1",
   "games": [
     [
-      "elenca",
-      "Italian"
-    ],
-    [
-      "layanan",
+      "hatrik",
       "Malay"
     ],
     [
-      "thi\u00eau",
-      "Vietnamese"
-    ],
-    [
-      "\u8d27\u8fd0\u706b\u8f66\u8f66\u5e73\u5747\u8981\u591a\u957f\u65f6\u95f4",
+      "\u7b2c\u4e00\u4e2a\u8fdb\u5165\u5965\u6797\u5339\u514b\u8fd0\u52a8\u4f1a\u51b3\u8d5b\u7684\u5370\u5ea6\u7537\u5b50",
       "Chinese"
     ],
     [
-      "\u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f",
-      "Russian"
+      "\u0e43\u0e04\u0e23\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01\u0e01\u0e32\u0e23\u0e04\u0e49\u0e19\u0e1e\u0e1a\u0e17\u0e32\u0e07\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e17\u0e35\u0e48\u0e40\u0e01\u0e34\u0e14\u0e02\u0e36\u0e49\u0e19\u0e43\u0e19\u0e01\u0e23\u0e35\u0e0b",
+      "Thai"
+    ],
+    [
+      "constitutie",
+      "Dutch"
+    ],
+    [
+      "\u7d71\u8a08\u3067",
+      "Japanese"
     ]
   ],
   "languages": [
