@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "1R873",
+  "id": "WANGL",
   "games": [
     [
-      "vilka",
+      "played",
+      "English"
+    ],
+    [
+      "\u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1788\u17b6\u1798\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u1794\u1784\u17d2\u1780\u17be\u178f\u17a1\u17be\u1784\u178a\u17c4\u1799\u1780\u17c4\u179f\u17b7\u1780\u17b6\u1788\u17b6\u1798\u1780\u17d2\u179a\u17a0\u1798",
+      "Cambodian"
+    ],
+    [
+      "tjejen",
       "Swedish"
     ],
     [
-      "kuka",
+      "elokuvat",
       "Finnish"
     ],
     [
-      "\ub204\uc6cc\uc788\uc2b5\ub2c8\ub2e4\ub97c",
-      "Korean"
-    ],
-    [
-      "mapy",
-      "Polish"
-    ],
-    [
-      "saapuivat",
-      "Finnish"
+      "blevet",
+      "Danish"
     ]
   ],
   "languages": [
