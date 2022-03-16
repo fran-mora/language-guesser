@@ -29,7 +29,7 @@ LANGUAGES = {
  'th': 'Thai',
  'tr': 'Turkish',
  'vi': 'Vietnamese',
- 'zh_cn': 'Mandarin',
+ 'zh_cn': 'Chinese',
 }
 
 
@@ -43,13 +43,6 @@ def extract_words(text, lang='en'):
         words = {word for word in words if len(word) > 3}
     return words
     
-def get_words(number):
-    langs = list(LANGUAGES.keys())
-    random.shuffle(langs)
-    langs = langs[:number]
-    return [
-        (random.choice(list(UNIQUE_VOCAB[lang])), LANGUAGES[lang]) for lang in langs
-    ]
 
 data = [json.loads(line) for line in util.readlines('data/mkqa.jsonl')]
 for x in data:
@@ -71,6 +64,13 @@ for lang, vocab in VOCABS.items():
     UNIQUE_VOCAB[lang] = vocab-other
     
 
+def get_words(number):
+    langs = list(LANGUAGES.keys())
+    random.shuffle(langs)
+    langs = langs[:number]
+    return [
+        (random.choice(list(UNIQUE_VOCAB[lang])), LANGUAGES[lang]) for lang in langs
+    ]
 
 # def get_word():
 # 	while True:
