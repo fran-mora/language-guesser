@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "WANGL",
+  "id": "WVKNV",
   "games": [
     [
-      "played",
-      "English"
+      "\u0e41\u0e2e\u0e23\u0e4c\u0e23\u0e35",
+      "Thai"
     ],
     [
-      "\u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1788\u17b6\u1798\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u1794\u1784\u17d2\u1780\u17be\u178f\u17a1\u17be\u1784\u178a\u17c4\u1799\u1780\u17c4\u179f\u17b7\u1780\u17b6\u1788\u17b6\u1798\u1780\u17d2\u179a\u17a0\u1798",
-      "Cambodian"
-    ],
-    [
-      "tjejen",
-      "Swedish"
-    ],
-    [
-      "elokuvat",
+      "kuka",
       "Finnish"
     ],
     [
-      "blevet",
-      "Danish"
+      "\u0e02\u0e49\u0e2d\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e02\u0e2d\u0e07\u0e27\u0e38\u0e12\u0e34\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e43\u0e19\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e2a\u0e2d\u0e07\u0e2b\u0e21\u0e14\u0e2d\u0e32\u0e22\u0e38\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e43\u0e14",
+      "Thai"
+    ],
+    [
+      "wanneer",
+      "Dutch"
+    ],
+    [
+      "\u043f\u043e\u0435\u0442",
+      "Russian"
     ]
   ],
   "languages": [
