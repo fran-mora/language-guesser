@@ -23,18 +23,19 @@
                 <h1>Daisy's Language Guesser</h1>
                 <br>
                 <div class="progress">
-                  <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width: 0%" ></div>
+                  <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width:0%"></div>
                 </div>
                 <br>
-                <div id="dots" class="centered" data-toggle="tooltip" title="Click to copy!" onclick="copyDivToClipboard()"></div>
+                <div id="dots" class="centered" data-toggle="tooltip" title="Click to copy!" onclick="copyDivToClipboard()"> </div>
                 <h2 id="all-done" style="display: none;">All done for today!</h2>
                 <h2 id="word" class="word centered"></h2>
-                <br>
+                <h2 class="centered next" style="display: none;"><a href='#' >Next</a></h2>
+                <br>            
                 <div class="row" id="languages">
   
                 </div>
             <br >
-            <h2 class="centered"><a id='next' href='#' style="display: none;">Next</a></h2>
+            <!-- <h2 class="centered next" style="display: none;"><a href='#'>Next</a></h2> -->
             </div>
         </div>
     </div>
@@ -104,6 +105,7 @@
         
 
                 var progress = parseInt((games.length-1) / GAME['games'].length * 100);
+                console.log(progress);  
                 $(".progress-bar").css("width", progress + "%");
                     
 
@@ -112,13 +114,13 @@
                 if (current_game.length >= 3){
                     $('#'+true_language).addClass('alert alert-secondary');
                     finished = true;
-                    $('#next').show();
+                    $('.next').show();
                 }
                 current_game.forEach(guess => {
                     if (guess == true_language){
                         $('#'+guess).addClass('alert alert-success');
                         finished = true;
-                        $('#next').show();
+                        $('.next').show();
                     }
                     else
                         $('#'+guess).addClass('alert alert-danger');
@@ -129,25 +131,28 @@
                     if (!finished){
                         var button = $(this);
                         var lang = button.html();
-                        current_game.push(lang);
+                        if (!current_game.includes(lang))
+                            current_game.push(lang);
                         localStorage['games'] = JSON.stringify(games);    
                         if (lang == true_language){
                             button.addClass('alert alert-success');
-                            $('#next').show();
+                            $('.next').show();
                             finished = true;
+                            $('#dots').html(get_score(games, GAME));
                         }
                         else {
                             if (current_game.length == 3){
                                 finished = true;
-                                $('#next').show();
+                                $('.next').show();
                                 $('#' + true_language).addClass('alert alert-secondary');
+                                $('#dots').html(get_score(games, GAME));
                             }
                             button.addClass('alert alert-danger');
                         }
                     }
                 });
 
-                $('#next').click(function(){
+                $('.next').click(function(){
                     games.push([]);
                     localStorage['games'] = JSON.stringify(games);    
                     window.location.href = "?";
