@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Daisy's Language Guesser</title>
+        <title>LanGo</title>
         <link rel="icon" type="image/x-icon" href="favicon.ico">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
@@ -36,7 +36,7 @@
                   <div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width:0%"></div>
                 </div>
                 <br>
-                <div id="dots" class="centered" data-toggle="tooltip" title="Click to copy!" onclick="copyDivToClipboard()"> </div>
+                <div id="dots" class="centered" data-toggle="tooltip"  onclick="copyDivToClipboard()"></div>
                 <h2 id="all-done" style="display: none;">All done for today!</h2>
                 <h2 id="word" class="word centered"></h2>
                 <h2 class="centered next" style="display: none;"><a href='#' >Next</a></h2>
@@ -75,8 +75,7 @@
             return score;
         }
 
-        $(document).ready(function(){
-            $('[data-toggle="tooltip"]').tooltip();   
+        $(document).ready(function(){  
 
             // localStorage.clear();
             if ((!'games' in localStorage) || localStorage['id'] != GAME['id']){
@@ -92,6 +91,9 @@
                 // finished
                 $('#all-done').show();
                 $('#dots').html(get_score(games, GAME));
+                $('#dots').attr('title', 'Click to copy!');
+                $('[data-toggle="tooltip"]').tooltip({placement: 'top',trigger: 'manual'}).tooltip('show'); 
+
                 var progress = parseInt((games.length-1) / GAME['games'].length * 100);
                 $(".progress-bar").css("width", progress + "%");
                 $(".progress-bar").addClass('bg-success');
