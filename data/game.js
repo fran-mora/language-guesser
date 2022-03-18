@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "J0HAC",
+  "id": "JCUAM",
   "games": [
     [
-      "established",
-      "English"
+      "\u0e1e\u0e27\u0e01\u0e40\u0e02\u0e32\u0e16\u0e48\u0e32\u0e22\u0e17\u0e33",
+      "Thai"
     ],
     [
-      "jantung",
-      "Malay"
-    ],
-    [
-      "\u0430\u0437\u0438\u0430\u0442\u0441\u043a\u043e\u0439",
-      "Russian"
-    ],
-    [
-      "mezun",
-      "Turkish"
-    ],
-    [
-      "muito",
+      "sustentabilidade",
       "Portuguese"
+    ],
+    [
+      "\u0627\u0644\u0643\u062a\u0627\u0628\u0629",
+      "Arabic"
+    ],
+    [
+      "abus",
+      "French"
+    ],
+    [
+      "dennoch",
+      "German"
     ]
   ],
   "languages": [
