@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "IJOLC",
+  "id": "4W07I",
   "games": [
     [
-      "calyso",
-      "Vietnamese"
+      "commandes",
+      "French"
     ],
     [
-      "dodger",
-      "Italian"
+      "\u05d1\u05d4\u05dd",
+      "Hebrew"
     ],
     [
-      "vedlagt",
-      "Danish"
+      "chipnek",
+      "Hungarian"
     ],
     [
-      "\u043a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0439",
+      "\u043f\u0440\u043e\u0441\u0442\u044b\u0445",
       "Russian"
     ],
     [
-      "magnitud",
-      "Spanish"
+      "\u0e15\u0e31\u0e14\u0e1c\u0e48\u0e32\u0e19\u0e1a\u0e23\u0e34\u0e40\u0e27\u0e13\u0e44\u0e2b\u0e19",
+      "Thai"
     ]
   ],
   "languages": [
