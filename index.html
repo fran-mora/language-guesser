@@ -62,16 +62,22 @@
         }
 
         var DOTS = ['🟢', '🟡', '🔴', '⚫'];
-        function get_score(games, GAME){
+        function get_score(games, GAME, finished){
             var score = '';
+            var tot = 0;
             games.forEach((game, i) => {
                 if (game.length){
-                    if (game.includes(GAME['games'][i][1]))
+                    if (game.includes(GAME['games'][i][1])){
                         score += DOTS[game.length-1];
+                        console.log(game.length-1);
+                        tot += 3-(game.length-1);
+                    }
                     else
                         score += DOTS[DOTS.length-1];
                 }
             });
+            if (finished)
+                score += ' = ' + tot;
             return score;
         }
 
@@ -90,7 +96,7 @@
             if (current_game_id >= GAME['games'].length){
                 // finished
                 $('#all-done').show();
-                $('#dots').html(get_score(games, GAME));
+                $('#dots').html(get_score(games, GAME, true));
                 $('#dots').attr('title', 'Click to copy!');
                 $('[data-toggle="tooltip"]').tooltip({placement: 'top',trigger: 'manual'}).tooltip('show'); 
 
@@ -102,7 +108,6 @@
                 var word = GAME['games'][current_game_id][0];
                 var true_language = GAME['games'][current_game_id][1];
                 
-
                 var finished = false;
 
                 $('#word').html(word);
@@ -117,12 +122,11 @@
         
 
                 var progress = parseInt((games.length-1) / GAME['games'].length * 100);
-                console.log(progress);  
                 $(".progress-bar").css("width", progress + "%");
                     
 
 
-                $('#dots').html(get_score(games, GAME));
+                $('#dots').html(get_score(games, GAME, false));
                 if (current_game.length >= 3){
                     $('#'+true_language).addClass('alert alert-secondary');
                     finished = true;
@@ -150,14 +154,14 @@
                             button.addClass('alert alert-success');
                             $('.next').show();
                             finished = true;
-                            $('#dots').html(get_score(games, GAME));
+                            $('#dots').html(get_score(games, GAME, false));
                         }
                         else {
                             if (current_game.length == 3){
                                 finished = true;
                                 $('.next').show();
                                 $('#' + true_language).addClass('alert alert-secondary');
-                                $('#dots').html(get_score(games, GAME));
+                                $('#dots').html(get_score(games, GAME, false));
                             }
                             button.addClass('alert alert-danger');
                         }
