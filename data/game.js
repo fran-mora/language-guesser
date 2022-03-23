@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "5UM9K",
+  "id": "2IXSI",
   "games": [
     [
-      "allians",
-      "Swedish"
+      "dikelaskan",
+      "Malay"
     ],
     [
-      "\u043c\u043e\u043b\u0435\u043a\u0443\u043b\u044f\u0440\u043d\u043e\u0435",
-      "Russian"
+      "tengah",
+      "Malay"
     ],
     [
-      "\u6fb3\u5927\u5229\u4e9a\u7684\u5927\u6d0b\u8def\u5728\u54ea\u91cc",
-      "Chinese"
+      "ditinggalkan",
+      "Malay"
     ],
     [
-      "inwiefern",
-      "German"
+      "stesyen",
+      "Malay"
     ],
     [
-      "berberyjskich",
-      "Polish"
+      "budaya",
+      "Malay"
     ]
   ],
   "languages": [
