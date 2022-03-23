@@ -20,6 +20,7 @@ def job(t):
 
     util.write('var GAME = ' + json.dumps(game , indent=2), 'data/game.js')
     if 'push' in sys.argv:
+        os.system('git pull')
         os.system('git add data/game.js')
         os.system('git commit -m "generating new game"')
         os.system('git push')
