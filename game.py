@@ -66,8 +66,7 @@ for lang, vocab in VOCABS.items():
 
 def get_words(number):
     langs = list(LANGUAGES.keys())
-    random.shuffle(langs)
-    langs = langs[:number]
+    langs = [random.choice(langs)] * number
     return [
         (random.choice(list(UNIQUE_VOCAB[lang])), LANGUAGES[lang]) for lang in langs
     ]
