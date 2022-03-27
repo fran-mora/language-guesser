@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "NXZON",
+  "id": "6S18S",
   "games": [
     [
-      "dotykowych",
-      "Polish"
-    ],
-    [
-      "coloradoban",
+      "pontot",
       "Hungarian"
     ],
     [
-      "precisi\u00f3n",
-      "Spanish"
-    ],
-    [
-      "\u0430\u043d\u0430\u0440\u0445\u0438\u0438",
+      "\u0442\u0432\u043e\u0439",
       "Russian"
     ],
     [
-      "sabahleyinki",
-      "Turkish"
+      "wielki",
+      "Polish"
+    ],
+    [
+      "commencera",
+      "French"
+    ],
+    [
+      "\u05d4\u05de\u05d5\u05e2\u05d3\u05d5\u05e0\u05d9\u05dd",
+      "Hebrew"
     ]
   ],
   "languages": [
