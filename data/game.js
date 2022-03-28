@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "6S18S",
+  "id": "Y9XL1",
   "games": [
     [
-      "pontot",
-      "Hungarian"
+      "\u062a\u0627\u0631\u0627",
+      "Arabic"
     ],
     [
-      "\u0442\u0432\u043e\u0439",
-      "Russian"
-    ],
-    [
-      "wielki",
-      "Polish"
-    ],
-    [
-      "commencera",
-      "French"
-    ],
-    [
-      "\u05d4\u05de\u05d5\u05e2\u05d3\u05d5\u05e0\u05d9\u05dd",
+      "\u05d4\u05e8\u05d2\u05d5\u05dc\u05d8\u05d5\u05e8\u05d9",
       "Hebrew"
+    ],
+    [
+      "met\u00f3dos",
+      "Portuguese"
+    ],
+    [
+      "buys",
+      "English"
+    ],
+    [
+      "nh\u1eadm",
+      "Vietnamese"
     ]
   ],
   "languages": [
