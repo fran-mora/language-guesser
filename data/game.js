@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "7APLE",
+  "id": "U25NV",
   "games": [
     [
-      "emotional",
+      "\u043e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u044f",
+      "Russian"
+    ],
+    [
+      "kansalaisoikeusaktivistit",
+      "Finnish"
+    ],
+    [
+      "kicked",
       "English"
     ],
     [
-      "brata",
-      "Polish"
+      "hj\u00e4rtmuskler",
+      "Swedish"
     ],
     [
-      "\u5728\u7f8e\u7d22\u4e0d\u8fbe\u7c73\u4e9a\u5357\u90e8\u5174\u8d77\u7684\u65e9\u671f\u6587\u660e\u662f",
-      "Chinese"
-    ],
-    [
-      "schilderij",
-      "Dutch"
-    ],
-    [
-      "elektronlar\u0131",
-      "Turkish"
+      "\u043d\u0430\u0437\u044b\u0432\u0430\u0435\u043c\u0430\u044f",
+      "Russian"
     ]
   ],
   "languages": [
