@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "U25NV",
+  "id": "MD41K",
   "games": [
     [
-      "\u043e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u044f",
+      "munningen",
+      "Norwegian"
+    ],
+    [
+      "stenella",
+      "Italian"
+    ],
+    [
+      "\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e",
       "Russian"
     ],
     [
-      "kansalaisoikeusaktivistit",
-      "Finnish"
+      "\u0627\u0644\u062a\u062f\u0631\u064a\u062c\u064a",
+      "Arabic"
     ],
     [
-      "kicked",
+      "phones",
       "English"
-    ],
-    [
-      "hj\u00e4rtmuskler",
-      "Swedish"
-    ],
-    [
-      "\u043d\u0430\u0437\u044b\u0432\u0430\u0435\u043c\u0430\u044f",
-      "Russian"
     ]
   ],
   "languages": [
