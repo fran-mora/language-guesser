@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "MD41K",
+  "id": "SRTUY",
   "games": [
     [
-      "munningen",
-      "Norwegian"
+      "iranissa",
+      "Finnish"
     ],
     [
-      "stenella",
-      "Italian"
+      "emak",
+      "Malay"
     ],
     [
-      "\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e",
-      "Russian"
+      "\u00f6lte",
+      "Hungarian"
     ],
     [
-      "\u0627\u0644\u062a\u062f\u0631\u064a\u062c\u064a",
-      "Arabic"
+      "opon\u0105",
+      "Polish"
     ],
     [
-      "phones",
-      "English"
+      "voil\u00e0",
+      "French"
     ]
   ],
   "languages": [
