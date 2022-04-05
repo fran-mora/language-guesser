@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "U9HKC",
+  "id": "WLKCL",
   "games": [
     [
-      "\u91cc\u626e\u6f14\u6cbb\u5b89\u5b98",
-      "Chinese"
+      "grond",
+      "Dutch"
     ],
     [
-      "estoy",
-      "Spanish"
+      "jelent",
+      "Hungarian"
     ],
     [
-      "ili\u015fkilidir",
-      "Turkish"
+      "alm\u00e6gtige",
+      "Danish"
     ],
     [
-      "pr\u00e9senter",
+      "mechanizm",
+      "Polish"
+    ],
+    [
+      "m\u00e9canismes",
       "French"
-    ],
-    [
-      "sostituzioni",
-      "Italian"
     ]
   ],
   "languages": [
