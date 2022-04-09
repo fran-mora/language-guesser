@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "3Q4K1",
+  "id": "BGRJW",
   "games": [
     [
-      "stellt",
+      "permita",
+      "Spanish"
+    ],
+    [
+      "lieve",
+      "Dutch"
+    ],
+    [
+      "labirinth",
       "German"
     ],
     [
-      "poikayst\u00e4v\u00e4\u00e4",
-      "Finnish"
+      "opwelling",
+      "Dutch"
     ],
     [
-      "\u043b\u043e\u0441\u043e\u0441\u044c",
-      "Russian"
-    ],
-    [
-      "kebal",
-      "Malay"
-    ],
-    [
-      "\u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0430",
-      "Russian"
+      "sesonger",
+      "Norwegian"
     ]
   ],
   "languages": [
