@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "BGRJW",
+  "id": "3D19R",
   "games": [
     [
-      "permita",
-      "Spanish"
+      "\u043f\u0440\u043e\u043b\u0435\u0442\u0430\u044f",
+      "Russian"
     ],
     [
-      "lieve",
-      "Dutch"
+      "\u1793\u17c5\u179b\u17be\u1791\u17b8\u179b\u17b6\u1793",
+      "Cambodian"
     ],
     [
-      "labirinth",
+      "initiated",
+      "English"
+    ],
+    [
+      "tr\u00f4i",
+      "Vietnamese"
+    ],
+    [
+      "vielleicht",
       "German"
-    ],
-    [
-      "opwelling",
-      "Dutch"
-    ],
-    [
-      "sesonger",
-      "Norwegian"
     ]
   ],
   "languages": [
