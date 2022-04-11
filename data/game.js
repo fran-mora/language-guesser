@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "3D19R",
+  "id": "52E30",
   "games": [
     [
-      "\u043f\u0440\u043e\u043b\u0435\u0442\u0430\u044f",
-      "Russian"
+      "\u7684\u4e66",
+      "Chinese"
     ],
     [
-      "\u1793\u17c5\u179b\u17be\u1791\u17b8\u179b\u17b6\u1793",
-      "Cambodian"
+      "conselheiro",
+      "Portuguese"
     ],
     [
-      "initiated",
-      "English"
+      "produzido",
+      "Portuguese"
     ],
     [
-      "tr\u00f4i",
-      "Vietnamese"
+      "d\u00f6dlighet",
+      "Swedish"
     ],
     [
-      "vielleicht",
-      "German"
+      "kokoisen",
+      "Finnish"
     ]
   ],
   "languages": [
