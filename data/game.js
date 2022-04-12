@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "52E30",
+  "id": "LZ08P",
   "games": [
     [
-      "\u7684\u4e66",
+      "gegessen",
+      "German"
+    ],
+    [
+      "solarbetriebene",
+      "German"
+    ],
+    [
+      "vedette",
+      "French"
+    ],
+    [
+      "iniziava",
+      "Italian"
+    ],
+    [
+      "\u4e2d\u738b\u5b50\u7684\u540d\u5b57\u53eb\u4ec0\u4e48",
       "Chinese"
-    ],
-    [
-      "conselheiro",
-      "Portuguese"
-    ],
-    [
-      "produzido",
-      "Portuguese"
-    ],
-    [
-      "d\u00f6dlighet",
-      "Swedish"
-    ],
-    [
-      "kokoisen",
-      "Finnish"
     ]
   ],
   "languages": [
