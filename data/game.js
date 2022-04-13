@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "LZ08P",
+  "id": "DJH4U",
   "games": [
     [
-      "gegessen",
+      "gehen",
       "German"
     ],
     [
-      "solarbetriebene",
-      "German"
+      "ventilene",
+      "Norwegian"
     ],
     [
-      "vedette",
-      "French"
+      "st\u00e4llet",
+      "Swedish"
     ],
     [
-      "iniziava",
+      "\u200bthe",
+      "English"
+    ],
+    [
+      "frammento",
       "Italian"
-    ],
-    [
-      "\u4e2d\u738b\u5b50\u7684\u540d\u5b57\u53eb\u4ec0\u4e48",
-      "Chinese"
     ]
   ],
   "languages": [
