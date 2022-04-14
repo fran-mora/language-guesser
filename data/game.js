@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "DJH4U",
+  "id": "YANQO",
   "games": [
     [
-      "gehen",
+      "\u30ce\u30fc\u30b9\u30ab\u30ed\u30e9\u30a4\u30ca\u5dde\u30ed\u30fc\u30ea\u30fc\u307e\u3067\u3069\u306e\u304f\u3089\u3044\u8ddd\u96e2\u304c\u3042\u308a\u307e\u3059\u304b",
+      "Japanese"
+    ],
+    [
+      "ricchi",
+      "Italian"
+    ],
+    [
+      "lackieren",
       "German"
     ],
     [
-      "ventilene",
-      "Norwegian"
+      "boda",
+      "Spanish"
     ],
     [
-      "st\u00e4llet",
-      "Swedish"
-    ],
-    [
-      "\u200bthe",
-      "English"
-    ],
-    [
-      "frammento",
-      "Italian"
+      "\u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u044e\u0442\u0441\u044f",
+      "Russian"
     ]
   ],
   "languages": [
