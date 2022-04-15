@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "YANQO",
+  "id": "XKKZL",
   "games": [
     [
-      "\u30ce\u30fc\u30b9\u30ab\u30ed\u30e9\u30a4\u30ca\u5dde\u30ed\u30fc\u30ea\u30fc\u307e\u3067\u3069\u306e\u304f\u3089\u3044\u8ddd\u96e2\u304c\u3042\u308a\u307e\u3059\u304b",
+      "\u05d4\u05e4\u05d9\u05e8\u05d5\u05ea",
+      "Hebrew"
+    ],
+    [
+      "\u05ea\u05e9\u05d1\u05e8\u05d9",
+      "Hebrew"
+    ],
+    [
+      "po\u0142udniu",
+      "Polish"
+    ],
+    [
+      "\u8c01\u5728\u65af\u5766\u5229\u676f\u7cfb\u5217\u8d5b\u4e2d\u9886\u5148",
+      "Chinese"
+    ],
+    [
+      "\u30ab\u30ea\u30d6\u8af8\u5cf6\u306e\u9996\u90fd\u306f\u3069\u3053\u3067\u3059\u304b",
       "Japanese"
-    ],
-    [
-      "ricchi",
-      "Italian"
-    ],
-    [
-      "lackieren",
-      "German"
-    ],
-    [
-      "boda",
-      "Spanish"
-    ],
-    [
-      "\u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u044e\u0442\u0441\u044f",
-      "Russian"
     ]
   ],
   "languages": [
