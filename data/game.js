@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "VUHOG",
+  "id": "KYU1C",
   "games": [
     [
-      "tozze",
-      "Italian"
+      "ex\u00e9cution",
+      "French"
     ],
     [
-      "\u178f\u17be\u1793\u179a\u178e\u17b6\u1787\u17b6\u1794\u17d2\u179a\u1792\u17b6\u1793\u17b6\u1792\u17b7\u1794\u178f\u17b8\u1780\u17d2\u1793\u17bb\u1784\u17a2\u17c6\u17a1\u17bb\u1784\u1796\u17c1\u179b\u179f\u1784\u17d2\u1782\u17d2\u179a\u17b6\u1798\u1780\u17bc\u179a\u17c9\u17c1",
-      "Cambodian"
+      "ca\u00efd",
+      "French"
     ],
     [
-      "forreste",
-      "Danish"
+      "hacia",
+      "Spanish"
     ],
     [
-      "filmmuziek",
-      "Dutch"
+      "\u043f\u0430\u043f\u043e\u0447\u043a\u0430",
+      "Russian"
     ],
     [
-      "bask\u0131s\u0131na",
-      "Turkish"
+      "\u30ea\u30d0\u30fc\u30c7\u30fc\u30eb\u306e\u30a8\u30d4\u30bd\u30fc\u30c9\u306f\u3044\u3064\u516c\u958b\u3055\u308c\u307e\u3059\u304b",
+      "Japanese"
     ]
   ],
   "languages": [
