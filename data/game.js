@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "SQ8XT",
+  "id": "UCBPR",
   "games": [
     [
-      "afg\u00f8r",
-      "Danish"
+      "diagihkan",
+      "Malay"
     ],
     [
-      "korm\u00e1ny\u00e1t",
-      "Hungarian"
-    ],
-    [
-      "\ucea0\ud328\uc778\uc744",
-      "Korean"
-    ],
-    [
-      "\u178a\u17c2\u179b\u1794\u17b6\u1793\u178a\u17be\u179a\u178f\u17bd\u1787\u17b6\u178f\u17bd\u17af\u1780\u179f\u17d2\u179a\u17b8\u1780\u17d2\u1793\u17bb\u1784\u179a\u17bf\u1784",
+      "\u178f\u17be\u17a2\u17b6\u1799\u17bb\u1780\u17b6\u179b\u1795\u17b9\u1780\u1793\u17c5\u17a0\u17d2\u179c\u17b8\u179b\u17b8\u1796\u17b8\u1793\u1782\u17ba\u1787\u17b6\u17a2\u17d2\u179c\u17b8",
       "Cambodian"
     ],
     [
-      "anrop",
+      "subjected",
+      "English"
+    ],
+    [
+      "k\u00f6ns",
       "Swedish"
+    ],
+    [
+      "\ub9bc\ud504\ub294",
+      "Korean"
     ]
   ],
   "languages": [
