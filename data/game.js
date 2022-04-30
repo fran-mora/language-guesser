@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "UCBPR",
+  "id": "TSIBX",
   "games": [
     [
-      "diagihkan",
+      "ncls",
+      "Spanish"
+    ],
+    [
+      "penamaan",
       "Malay"
     ],
     [
-      "\u178f\u17be\u17a2\u17b6\u1799\u17bb\u1780\u17b6\u179b\u1795\u17b9\u1780\u1793\u17c5\u17a0\u17d2\u179c\u17b8\u179b\u17b8\u1796\u17b8\u1793\u1782\u17ba\u1787\u17b6\u17a2\u17d2\u179c\u17b8",
-      "Cambodian"
+      "ni\u1ec7m",
+      "Vietnamese"
     ],
     [
-      "subjected",
-      "English"
+      "motot",
+      "Vietnamese"
     ],
     [
-      "k\u00f6ns",
-      "Swedish"
-    ],
-    [
-      "\ub9bc\ud504\ub294",
-      "Korean"
+      "calligrafia",
+      "Italian"
     ]
   ],
   "languages": [
