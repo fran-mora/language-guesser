@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "TSIBX",
+  "id": "AJXEZ",
   "games": [
     [
-      "ncls",
-      "Spanish"
+      "\u0e17\u0e35\u0e48",
+      "Thai"
     ],
     [
-      "penamaan",
-      "Malay"
+      "huvuds\u00e5ng",
+      "Swedish"
     ],
     [
-      "ni\u1ec7m",
-      "Vietnamese"
+      "\u05dc\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8",
+      "Hebrew"
     ],
     [
-      "motot",
-      "Vietnamese"
+      "skifter\u00f8mmers",
+      "Danish"
     ],
     [
-      "calligrafia",
-      "Italian"
+      "\u00e9olienne",
+      "French"
     ]
   ],
   "languages": [
