@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "C0SQ5",
+  "id": "UU55K",
   "games": [
     [
-      "tenkning",
-      "Norwegian"
+      "tanda",
+      "Malay"
     ],
     [
-      "kansainv\u00e4lisess\u00e4",
-      "Finnish"
+      "maymununun",
+      "Turkish"
     ],
     [
-      "\u3134\uad6c",
-      "Korean"
+      "\u200b\u200bthan",
+      "Vietnamese"
     ],
     [
-      "\u178f\u17be\u1791\u17c1\u179c\u178f\u17b6\u179f\u17c6\u1781\u17b6\u1793\u17cb\u1794\u17c6\u1795\u17bb\u178f\u1793\u17c4\u17c7\u1798\u17b6\u1793\u1788\u17d2\u1798\u17c4\u17c7\u17a2\u17d2\u179c\u17b8",
-      "Cambodian"
+      "y\u00f6neticisiyle",
+      "Turkish"
     ],
     [
-      "\u05d6\u05e0\u05d9",
-      "Hebrew"
+      "idiom\u00e1tica",
+      "Portuguese"
     ]
   ],
   "languages": [
