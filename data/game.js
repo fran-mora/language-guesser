@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "UU55K",
+  "id": "IUP4D",
   "games": [
     [
-      "tanda",
-      "Malay"
+      "characterized",
+      "English"
     ],
     [
-      "maymununun",
-      "Turkish"
+      "\u05d8\u05d5\u05e8\u05e0\u05d0\u05d5\u05d1\u05e8",
+      "Hebrew"
     ],
     [
-      "\u200b\u200bthan",
-      "Vietnamese"
+      "besluitvorming",
+      "Dutch"
     ],
     [
-      "y\u00f6neticisiyle",
-      "Turkish"
+      "\u4e2d\uff0c\u8c01\u5728\u9a6c\u5fb7\u91cc\u7684",
+      "Chinese"
     ],
     [
-      "idiom\u00e1tica",
-      "Portuguese"
+      "\u30cf\u30d0\u30ca\u304c\u30ad\u30e5\u30fc\u30d0\u306e\u9996\u90fd\u306b\u306a\u3063\u305f\u306e\u306f\u3044\u3064",
+      "Japanese"
     ]
   ],
   "languages": [
