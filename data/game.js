@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "IUP4D",
+  "id": "YE4UR",
   "games": [
     [
-      "characterized",
-      "English"
+      "\u178a\u17c2\u179b\u1787\u17b6\u1780\u1793\u17d2\u179b\u17c2\u1784\u178a\u17c2\u179b\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u1782\u17c1\u1790\u178f\u1781\u17d2\u179f\u17c2\u1797\u17b6\u1796\u1799\u1793\u17d2\u178f\u1793\u17b6\u1782\u179a\u1794\u179f\u17cb",
+      "Cambodian"
     ],
     [
-      "\u05d8\u05d5\u05e8\u05e0\u05d0\u05d5\u05d1\u05e8",
-      "Hebrew"
+      "handelsunderskudd",
+      "Norwegian"
     ],
     [
-      "besluitvorming",
-      "Dutch"
+      "unsere",
+      "German"
     ],
     [
-      "\u4e2d\uff0c\u8c01\u5728\u9a6c\u5fb7\u91cc\u7684",
-      "Chinese"
+      "\u0644\u0645\u0648\u0633\u0645",
+      "Arabic"
     ],
     [
-      "\u30cf\u30d0\u30ca\u304c\u30ad\u30e5\u30fc\u30d0\u306e\u9996\u90fd\u306b\u306a\u3063\u305f\u306e\u306f\u3044\u3064",
-      "Japanese"
+      "konvergenszonen",
+      "Swedish"
     ]
   ],
   "languages": [
