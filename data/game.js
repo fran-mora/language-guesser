@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "C0LTT",
+  "id": "A2B12",
   "games": [
     [
-      "bentlak\u00e1sos",
-      "Hungarian"
+      "ribellione",
+      "Italian"
     ],
     [
-      "hoa\u0340n",
-      "Vietnamese"
+      "klibi",
+      "Turkish"
     ],
     [
-      "gennemsnitlig",
-      "Danish"
+      "\u0627\u0644\u0634\u0631\u0643\u0627\u062a",
+      "Arabic"
     ],
     [
-      "k\u00eanh",
-      "Vietnamese"
+      "finanzbefugnisse",
+      "German"
     ],
     [
-      "renacentista",
-      "Spanish"
+      "weihnachtsfilm",
+      "German"
     ]
   ],
   "languages": [
