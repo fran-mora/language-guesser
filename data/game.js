@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "A2B12",
+  "id": "TKKY4",
   "games": [
     [
-      "ribellione",
-      "Italian"
+      "\u0432\u0438\u043d\u0442\u043e\u0432\u043a\u0430",
+      "Russian"
     ],
     [
-      "klibi",
-      "Turkish"
-    ],
-    [
-      "\u0627\u0644\u0634\u0631\u0643\u0627\u062a",
+      "\u0627\u0644\u0646\u062c\u0648\u0645",
       "Arabic"
     ],
     [
-      "finanzbefugnisse",
-      "German"
+      "thi\u1ec3u",
+      "Vietnamese"
     ],
     [
-      "weihnachtsfilm",
-      "German"
+      "\u65b0\u4e00\u5b63\u7684",
+      "Chinese"
+    ],
+    [
+      "\u05e1\u05e8\u05d8",
+      "Hebrew"
     ]
   ],
   "languages": [
