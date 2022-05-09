@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "TKKY4",
+  "id": "00UDW",
   "games": [
     [
-      "\u0432\u0438\u043d\u0442\u043e\u0432\u043a\u0430",
-      "Russian"
+      "empf\u00e4ngnis",
+      "German"
     ],
     [
-      "\u0627\u0644\u0646\u062c\u0648\u0645",
-      "Arabic"
+      "\u3067\u4e00\u756a\u53ce\u5165\u304c\u4f4e\u3044\u9078\u624b\u306f\u8ab0\u3067\u3059\u304b",
+      "Japanese"
     ],
     [
-      "thi\u1ec3u",
-      "Vietnamese"
+      "bilf\u00f6retaget",
+      "Swedish"
     ],
     [
-      "\u65b0\u4e00\u5b63\u7684",
-      "Chinese"
+      "verk\u00fcndeten",
+      "German"
     ],
     [
-      "\u05e1\u05e8\u05d8",
-      "Hebrew"
+      "udenfor",
+      "Danish"
     ]
   ],
   "languages": [
