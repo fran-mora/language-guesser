@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "00UDW",
+  "id": "NGWDQ",
   "games": [
     [
-      "empf\u00e4ngnis",
-      "German"
+      "perustuslaillisessa",
+      "Finnish"
     ],
     [
-      "\u3067\u4e00\u756a\u53ce\u5165\u304c\u4f4e\u3044\u9078\u624b\u306f\u8ab0\u3067\u3059\u304b",
-      "Japanese"
+      "asteroitler",
+      "Turkish"
     ],
     [
-      "bilf\u00f6retaget",
+      "r\u00e4tt",
       "Swedish"
     ],
     [
-      "verk\u00fcndeten",
-      "German"
+      "v\u00e1llalatoknak",
+      "Hungarian"
     ],
     [
-      "udenfor",
-      "Danish"
+      "piagam",
+      "Malay"
     ]
   ],
   "languages": [
