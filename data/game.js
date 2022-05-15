@@ -1,24 +1,24 @@
 var GAME = {
-  "id": "2JJCN",
+  "id": "22DK9",
   "games": [
     [
-      "blindado",
+      "nh\u1ea7m",
+      "Vietnamese"
+    ],
+    [
+      "lo\u00e0i",
+      "Vietnamese"
+    ],
+    [
+      "quemado",
       "Spanish"
     ],
     [
-      "drenaggio",
-      "Italian"
+      "\u00e9toiles",
+      "French"
     ],
     [
-      "\u7ba1\u7406\u4f1a\u8ba1\u4e3b\u8981\u4e0e\u7ecf\u7406\u548c\u5916\u90e8\u7528\u6237\u6709\u5173",
-      "Chinese"
-    ],
-    [
-      "begr\u00e6nse",
-      "Danish"
-    ],
-    [
-      "\u1796\u178e\u17cc\u17a2\u17d2\u179c\u17b8\u178a\u17c2\u179b\u1787\u17b6\u1798\u17c9\u17b6\u179f\u17ca\u17b8\u1793\u178f\u17bc\u1785\u178a\u17c2\u179b\u17a2\u17b6\u1785",
+      "\u178a\u17c2\u179b\u1794\u17b6\u1793\u179b\u17c1\u1784\u1780\u17d2\u1798\u17c1\u1784\u179f\u17d2\u179a\u17b8\u178f\u17bc\u1785\u1793\u17c5",
       "Cambodian"
     ]
   ],
