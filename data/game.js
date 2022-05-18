@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "U44VS",
+  "id": "2D2VE",
   "games": [
     [
-      "bertumbuk",
-      "Malay"
+      "\u0434\u0438\u043d\u0430",
+      "Russian"
     ],
     [
-      "\u4e16\u754c\u4e0a\u6700\u5927\u7684\u706b\u5c71\u55b7\u53d1\u662f\u54ea\u4e2a",
-      "Chinese"
+      "di\u00ea\u0303n",
+      "Vietnamese"
     ],
     [
-      "herstellung",
-      "German"
+      "\u043f\u0440\u043e\u0434\u0430\u0432\u0430\u0442\u044c",
+      "Russian"
     ],
     [
-      "elektricitetsanv\u00e4ndningen",
-      "Swedish"
+      "readings",
+      "English"
     ],
     [
-      "w\u0119glowy",
-      "Polish"
+      "waterkwaliteit",
+      "Dutch"
     ]
   ],
   "languages": [
