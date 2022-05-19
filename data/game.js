@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "2D2VE",
+  "id": "HX591",
   "games": [
     [
-      "\u0434\u0438\u043d\u0430",
-      "Russian"
+      "ad\u00e9quation",
+      "French"
     ],
     [
-      "di\u00ea\u0303n",
-      "Vietnamese"
+      "iglesias",
+      "Spanish"
     ],
     [
-      "\u043f\u0440\u043e\u0434\u0430\u0432\u0430\u0442\u044c",
-      "Russian"
+      "\u05d4\u05d5\u05e0\u05d3\u05d4",
+      "Hebrew"
     ],
     [
-      "readings",
-      "English"
+      "sforzi",
+      "Italian"
     ],
     [
-      "waterkwaliteit",
-      "Dutch"
+      "veia",
+      "Portuguese"
     ]
   ],
   "languages": [
