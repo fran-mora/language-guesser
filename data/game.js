@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "HX591",
+  "id": "BADBT",
   "games": [
     [
-      "ad\u00e9quation",
-      "French"
+      "wabak",
+      "Malay"
     ],
     [
-      "iglesias",
+      "mesin",
+      "Malay"
+    ],
+    [
+      "exhibe",
       "Spanish"
     ],
     [
-      "\u05d4\u05d5\u05e0\u05d3\u05d4",
-      "Hebrew"
-    ],
-    [
-      "sforzi",
+      "lasciando",
       "Italian"
     ],
     [
-      "veia",
-      "Portuguese"
+      "trzech",
+      "Polish"
     ]
   ],
   "languages": [
