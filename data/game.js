@@ -1,24 +1,24 @@
 var GAME = {
-  "id": "BADBT",
+  "id": "PMOBH",
   "games": [
     [
-      "wabak",
-      "Malay"
+      "nordsj\u00f8en",
+      "Norwegian"
     ],
     [
-      "mesin",
-      "Malay"
+      "\u0433\u043e\u043b\u043e\u0432\u0430",
+      "Russian"
     ],
     [
-      "exhibe",
-      "Spanish"
+      "mostarda",
+      "Portuguese"
     ],
     [
-      "lasciando",
-      "Italian"
+      "csillagr\u00f3l",
+      "Hungarian"
     ],
     [
-      "trzech",
+      "filar\u00f3w",
       "Polish"
     ]
   ],
