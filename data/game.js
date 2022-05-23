@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "L1G1Y",
+  "id": "KL4MB",
   "games": [
     [
-      "\u0e23\u0e31\u0e10\u0e2a\u0e20\u0e32\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21\u0e04\u0e23\u0e31\u0e49\u0e07\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48",
-      "Thai"
+      "\u179f\u179a\u179f\u17c1\u179a\u1780\u17c6\u178e\u178f\u17cb\u179f\u1798\u17d2\u1782\u17b6\u179b\u17cb\u1781\u17d2\u179b\u17b8\u179b\u17be\u1794\u17d2\u179a\u1796\u17d0\u1793\u17d2\u1792\u1796\u17d0\u178f\u17cc\u1798\u17b6\u1793\u1795\u17d2\u1791\u17b6\u179b\u17cb\u1781\u17d2\u179b\u17bd\u1793\u1795\u17d2\u17a2\u17c2\u1780\u179b\u17be\u1780\u17bb\u17c6\u1796\u17d2\u1799\u17bc\u1791\u17d0\u179a",
+      "Cambodian"
     ],
     [
-      "przyczepione",
-      "Polish"
+      "\u535a\u58eb\u6700\u7b80\u5355\u6700\u5e74\u8f7b\u7684",
+      "Chinese"
     ],
     [
-      "conclu\u00edda",
-      "Portuguese"
-    ],
-    [
-      "utvikle",
+      "invasjonen",
       "Norwegian"
     ],
     [
-      "\u05dc\u05d2\u05d1\u05d5\u05ea",
-      "Hebrew"
+      "tjernobyl",
+      "Danish"
+    ],
+    [
+      "\u4fe1\u606f\u5b89\u5168",
+      "Chinese"
     ]
   ],
   "languages": [
