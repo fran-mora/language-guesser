@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "KL4MB",
+  "id": "AJ3JY",
   "games": [
     [
-      "\u179f\u179a\u179f\u17c1\u179a\u1780\u17c6\u178e\u178f\u17cb\u179f\u1798\u17d2\u1782\u17b6\u179b\u17cb\u1781\u17d2\u179b\u17b8\u179b\u17be\u1794\u17d2\u179a\u1796\u17d0\u1793\u17d2\u1792\u1796\u17d0\u178f\u17cc\u1798\u17b6\u1793\u1795\u17d2\u1791\u17b6\u179b\u17cb\u1781\u17d2\u179b\u17bd\u1793\u1795\u17d2\u17a2\u17c2\u1780\u179b\u17be\u1780\u17bb\u17c6\u1796\u17d2\u1799\u17bc\u1791\u17d0\u179a",
-      "Cambodian"
+      "individen",
+      "Swedish"
     ],
     [
-      "\u535a\u58eb\u6700\u7b80\u5355\u6700\u5e74\u8f7b\u7684",
-      "Chinese"
+      "fermet\u00e9",
+      "French"
     ],
     [
-      "invasjonen",
-      "Norwegian"
+      "\u0442\u0430\u043a\u043e\u0433\u043e",
+      "Russian"
     ],
     [
-      "tjernobyl",
-      "Danish"
+      "loup",
+      "French"
     ],
     [
-      "\u4fe1\u606f\u5b89\u5168",
-      "Chinese"
+      "inlagt",
+      "Swedish"
     ]
   ],
   "languages": [
