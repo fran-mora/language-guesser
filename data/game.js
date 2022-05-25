@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "AJ3JY",
+  "id": "CXRMY",
   "games": [
     [
-      "individen",
-      "Swedish"
+      "afasta",
+      "Portuguese"
     ],
     [
-      "fermet\u00e9",
+      "d\u00e9clarer",
       "French"
     ],
     [
-      "\u0442\u0430\u043a\u043e\u0433\u043e",
-      "Russian"
+      "previs\u00e3o",
+      "Portuguese"
     ],
     [
-      "loup",
-      "French"
+      "\u05e9\u05de\u05d7\u05d5\u05d1\u05e8",
+      "Hebrew"
     ],
     [
-      "inlagt",
-      "Swedish"
+      "\u0e17\u0e30\u0e40\u0e25\u0e17\u0e23\u0e32\u0e22\u0e2d\u0e32\u0e15\u0e32\u0e01\u0e32\u0e21\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e44\u0e2b\u0e19\u0e43\u0e19\u0e41\u0e1c\u0e19\u0e17\u0e35\u0e48",
+      "Thai"
     ]
   ],
   "languages": [
