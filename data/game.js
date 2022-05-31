@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "JMXYH",
+  "id": "27ZPJ",
   "games": [
     [
-      "vrouwelijke",
-      "Dutch"
+      "tavshedspligt",
+      "Danish"
     ],
     [
-      "closing",
-      "English"
+      "travailler",
+      "French"
     ],
     [
-      "lovverk",
-      "Norwegian"
+      "\u7d2b\u6591\u75c5\u3068\u6591\u72b6\u51fa\u8840\u306e\u9055\u3044\u306f\u4f55\u3067\u3059\u304b",
+      "Japanese"
     ],
     [
-      "\u043c\u0430\u0442\u0435\u0440\u044c\u044e",
-      "Russian"
+      "enregistrent",
+      "French"
     ],
     [
-      "singte",
-      "German"
+      "dimenangi",
+      "Malay"
     ]
   ],
   "languages": [
