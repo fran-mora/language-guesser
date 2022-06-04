@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "OSKSX",
+  "id": "R3RLC",
   "games": [
     [
-      "treasure",
-      "English"
+      "membahagikan",
+      "Malay"
     ],
     [
-      "estuvimos",
-      "Spanish"
-    ],
-    [
-      "\u0e43\u0e04\u0e23\u0e41\u0e2a\u0e14\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e14\u0e47\u0e01\u0e1c\u0e39\u0e49\u0e2b\u0e0d\u0e34\u0e07\u0e43\u0e19\u0e15\u0e23\u0e30\u0e01\u0e39\u0e25\u0e19\u0e35\u0e49\u0e1c\u0e35\u0e22\u0e31\u0e07\u0e2b\u0e25\u0e1a",
+      "\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e32\u0e18\u0e34\u0e1a\u0e14\u0e35\u0e2a\u0e2b\u0e23\u0e31\u0e10\u0e04\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b\u0e04\u0e37\u0e2d\u0e43\u0e04\u0e23",
       "Thai"
     ],
     [
-      "nadam",
-      "Portuguese"
+      "podstawow\u0105",
+      "Polish"
     ],
     [
-      "\u6620\u753b\u300c\u30ed\u30fc\u30c9\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30ea\u30f3\u30b0\u300d\u306e\u30b5\u30e0\u5f79\u306f\u8ab0",
-      "Japanese"
+      "eliptyczna",
+      "Polish"
+    ],
+    [
+      "\u0e2d\u0e30\u0e44\u0e23\u0e04\u0e37\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e21\u0e37\u0e48\u0e2d",
+      "Thai"
     ]
   ],
   "languages": [
