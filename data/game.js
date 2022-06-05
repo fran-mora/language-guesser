@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "R3RLC",
+  "id": "8G5OL",
   "games": [
     [
-      "membahagikan",
-      "Malay"
+      "standardiserat",
+      "Swedish"
     ],
     [
-      "\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e32\u0e18\u0e34\u0e1a\u0e14\u0e35\u0e2a\u0e2b\u0e23\u0e31\u0e10\u0e04\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b\u0e04\u0e37\u0e2d\u0e43\u0e04\u0e23",
-      "Thai"
+      "utgiftsmultiplikatoren",
+      "Norwegian"
     ],
     [
-      "podstawow\u0105",
-      "Polish"
+      "aksjonens",
+      "Norwegian"
     ],
     [
-      "eliptyczna",
-      "Polish"
+      "durchschnittsl\u00e4nge",
+      "German"
     ],
     [
-      "\u0e2d\u0e30\u0e44\u0e23\u0e04\u0e37\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e21\u0e37\u0e48\u0e2d",
-      "Thai"
+      "\u4e00\u79cd\u9664\u8349\u5242\u5728\u7f8e\u56fd\u6295\u5165\u4f7f\u7528\u4ee5\u524d",
+      "Chinese"
     ]
   ],
   "languages": [
