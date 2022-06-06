@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "8G5OL",
+  "id": "EG590",
   "games": [
     [
-      "standardiserat",
-      "Swedish"
+      "m\u0171soron",
+      "Hungarian"
     ],
     [
-      "utgiftsmultiplikatoren",
-      "Norwegian"
+      "f\u00fclh\u00f6z",
+      "Hungarian"
     ],
     [
-      "aksjonens",
-      "Norwegian"
+      "\u043c\u0430\u0448\u0438\u043d\u0430\u0445",
+      "Russian"
     ],
     [
-      "durchschnittsl\u00e4nge",
-      "German"
+      "\u30de\u30ec\u30fc\u30b7\u30a2\u306e\u72ec\u7acb\u4ea4\u6e09\u3067\u82f1\u56fd\u3092\u4ee3\u8868\u3057\u305f\u306e\u306f\u8ab0",
+      "Japanese"
     ],
     [
-      "\u4e00\u79cd\u9664\u8349\u5242\u5728\u7f8e\u56fd\u6295\u5165\u4f7f\u7528\u4ee5\u524d",
-      "Chinese"
+      "ekskluderet",
+      "Danish"
     ]
   ],
   "languages": [
