@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "HPWMF",
+  "id": "SV05L",
   "games": [
     [
-      "\u8c01\u662f\u5370\u5ea6\u7684\u6559\u80b2\u90e8\u957f",
-      "Chinese"
-    ],
-    [
-      "nimmt",
-      "German"
-    ],
-    [
-      "slakhoorn",
-      "Dutch"
-    ],
-    [
-      "org\u00e1nicos",
-      "Spanish"
-    ],
-    [
-      "polyfenol",
+      "sjungs",
       "Swedish"
+    ],
+    [
+      "chai",
+      "Vietnamese"
+    ],
+    [
+      "moderniseringsprocessen",
+      "Danish"
+    ],
+    [
+      "informacji",
+      "Polish"
+    ],
+    [
+      "ollio",
+      "Italian"
     ]
   ],
   "languages": [
