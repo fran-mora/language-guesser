@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "SV05L",
+  "id": "MUES9",
   "games": [
     [
-      "sjungs",
-      "Swedish"
+      "\u1793\u17c5\u179b\u17be\u1795\u17d2\u1791\u17c7\u1796\u17c1\u1789",
+      "Cambodian"
     ],
     [
-      "chai",
-      "Vietnamese"
-    ],
-    [
-      "moderniseringsprocessen",
-      "Danish"
-    ],
-    [
-      "informacji",
+      "gminy",
       "Polish"
     ],
     [
-      "ollio",
-      "Italian"
+      "\u0627\u0644\u0644\u0639\u0628\u0629",
+      "Arabic"
+    ],
+    [
+      "trajectoire",
+      "French"
+    ],
+    [
+      "hjemlandsikkerhet",
+      "Norwegian"
     ]
   ],
   "languages": [
