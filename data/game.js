@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "MUES9",
+  "id": "8VZA4",
   "games": [
     [
-      "\u1793\u17c5\u179b\u17be\u1795\u17d2\u1791\u17c7\u1796\u17c1\u1789",
-      "Cambodian"
+      "\u0111o\u1ea1n",
+      "Vietnamese"
     ],
     [
-      "gminy",
-      "Polish"
+      "\u0430\u0446\u0435\u0442\u0438\u043b",
+      "Russian"
     ],
     [
-      "\u0627\u0644\u0644\u0639\u0628\u0629",
-      "Arabic"
+      "\u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0439",
+      "Russian"
     ],
     [
-      "trajectoire",
-      "French"
+      "\u30c0\u30e9\u30b9\u30fb\u30ab\u30a6\u30dc\u30fc\u30a4\u30ba\u304c\u6700\u5f8c\u306b\u30b9\u30fc\u30d1\u30fc\u30dc\u30a6\u30eb\u3067\u512a\u52dd\u3057\u305f\u306e\u306f\u3044\u3064",
+      "Japanese"
     ],
     [
-      "hjemlandsikkerhet",
-      "Norwegian"
+      "sureste",
+      "Spanish"
     ]
   ],
   "languages": [
