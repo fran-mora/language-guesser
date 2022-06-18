@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "YXWGA",
+  "id": "UN2K6",
   "games": [
     [
-      "\u0627\u0644\u062e\u0648\u0641",
-      "Arabic"
+      "etiop\u00eda",
+      "Spanish"
     ],
     [
-      "\u5e74\u306b\u3069\u3053\u3067\u539f\u767a\u4e8b\u6545\u304c\u8d77\u304d\u307e\u3057\u305f\u304b",
-      "Japanese"
+      "\u0e22\u0e2d\u0e14\u0e19\u0e34\u0e22\u0e21\u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23",
+      "Thai"
     ],
     [
-      "schiffe",
-      "German"
+      "oncle",
+      "French"
     ],
     [
-      "thuisspelend",
-      "Dutch"
+      "anv\u00e4nt",
+      "Swedish"
     ],
     [
-      "p\u00f8lsespise",
-      "Norwegian"
+      "\uc62c\ub77c\uac14\ub098\uc694",
+      "Korean"
     ]
   ],
   "languages": [
