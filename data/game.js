@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "VKRZZ",
+  "id": "JMMFB",
   "games": [
     [
-      "moteurs",
+      "\u062c\u062f\u0627\u0631",
+      "Arabic"
+    ],
+    [
+      "\u05d1\u05d9\u05df",
+      "Hebrew"
+    ],
+    [
+      "crociate",
+      "Italian"
+    ],
+    [
+      "d\u00e9m\u00e9nag\u00e9s",
       "French"
     ],
     [
-      "owners",
-      "English"
-    ],
-    [
-      "najdok\u0142adniejszy",
-      "Polish"
-    ],
-    [
-      "artikkelin",
-      "Finnish"
-    ],
-    [
-      "\u7537\u5b50\u30c6\u30cb\u30b9\u3067\u6700\u3082\u591a\u304f\u30b0\u30e9\u30f3\u30c9\u30b9\u30e9\u30e0\u3092\u52dd\u3061\u53d6\u3063\u305f\u306e\u306f\u8ab0\u3067\u3059\u304b",
-      "Japanese"
+      "bitmapbilde",
+      "Norwegian"
     ]
   ],
   "languages": [
