@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "JMMFB",
+  "id": "4ZQS9",
   "games": [
     [
-      "\u062c\u062f\u0627\u0631",
-      "Arabic"
+      "spiror",
+      "Swedish"
     ],
     [
-      "\u05d1\u05d9\u05df",
-      "Hebrew"
+      "integrerad",
+      "Swedish"
     ],
     [
-      "crociate",
-      "Italian"
+      "\u0e43\u0e04\u0e23\u0e04\u0e37\u0e2d\u0e1e\u0e23\u0e30\u0e17\u0e35\u0e48\u0e40\u0e02\u0e35\u0e22\u0e19\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e01\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e42\u0e08\u0e21\u0e15\u0e35\u0e40\u0e22\u0e23\u0e39\u0e0b\u0e32\u0e40\u0e25\u0e47\u0e21",
+      "Thai"
     ],
     [
-      "d\u00e9m\u00e9nag\u00e9s",
-      "French"
+      "\u30b8\u30e7\u30cb\u30fc\u30fb\u30ad\u30e3\u30c3\u30b7\u30e5\u306e",
+      "Japanese"
     ],
     [
-      "bitmapbilde",
-      "Norwegian"
+      "pantery",
+      "Polish"
     ]
   ],
   "languages": [
