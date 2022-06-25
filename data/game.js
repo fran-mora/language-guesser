@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "NSMFO",
+  "id": "BAKXN",
   "games": [
     [
-      "\u0111o\u0301ng",
-      "Vietnamese"
+      "malay",
+      "Malay"
     ],
     [
-      "psychische",
+      "cangrejo",
+      "Spanish"
+    ],
+    [
+      "wiskundige",
+      "Dutch"
+    ],
+    [
+      "pensjon",
+      "Norwegian"
+    ],
+    [
+      "prognosefehlers",
       "German"
-    ],
-    [
-      "d\u00e9pendance",
-      "French"
-    ],
-    [
-      "trilogin",
-      "Swedish"
-    ],
-    [
-      "c\u00f9ng",
-      "Vietnamese"
     ]
   ],
   "languages": [
