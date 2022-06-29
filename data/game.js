@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "L5CLK",
+  "id": "OY0NA",
   "games": [
     [
-      "bu\u1ed5i",
-      "Vietnamese"
-    ],
-    [
-      "transporteer",
-      "Dutch"
-    ],
-    [
-      "prenumeranter",
+      "immaterialla",
       "Swedish"
     ],
     [
-      "koptak",
-      "Hungarian"
+      "versivulo",
+      "Spanish"
     ],
     [
-      "menyorok",
-      "Malay"
+      "synapser",
+      "Norwegian"
+    ],
+    [
+      "wakacje",
+      "Polish"
+    ],
+    [
+      "neredeysem",
+      "Turkish"
     ]
   ],
   "languages": [
