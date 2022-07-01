@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "3Z85B",
+  "id": "ZW3RG",
   "games": [
     [
-      "caricabatterie",
+      "\u0644\u064a\u062c\u0646\u062f",
+      "Arabic"
+    ],
+    [
+      "\u0445\u0430\u0437\u0437\u0430\u0440\u0434\u0441\u043a\u0438\u0435",
+      "Russian"
+    ],
+    [
+      "dignidad",
+      "Spanish"
+    ],
+    [
+      "keltakiven",
+      "Finnish"
+    ],
+    [
+      "prossimo",
       "Italian"
-    ],
-    [
-      "\uc640\ud2bc",
-      "Korean"
-    ],
-    [
-      "archieven",
-      "Dutch"
-    ],
-    [
-      "v\u00e5ningen",
-      "Swedish"
-    ],
-    [
-      "\u1794\u17b6\u1793\u1794\u17d2\u179a\u1799\u17bb\u1791\u17d2\u1792",
-      "Cambodian"
     ]
   ],
   "languages": [
