@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "3LN3R",
+  "id": "JI296",
   "games": [
     [
-      "m\u00e9chants",
-      "French"
+      "\u30b2\u30fc\u30e0\u306e\u30b9\u30d1\u30a4\u30ed\u30fb\u30b6\u30fb\u30c9\u30e9\u30b4\u30f3\u306e\u6700\u521d\u306e\u4f5c\u54c1\u306f\u3044\u3064\u51fa\u305f\u306e",
+      "Japanese"
     ],
     [
-      "bertelur",
-      "Malay"
+      "tirada",
+      "Spanish"
     ],
     [
-      "offentliga",
+      "demokraterna",
       "Swedish"
     ],
     [
-      "\u0440\u044d\u043c\u0441",
-      "Russian"
+      "objets",
+      "French"
     ],
     [
-      "consid\u00e8re",
-      "French"
+      "lagerhuis",
+      "Dutch"
     ]
   ],
   "languages": [
