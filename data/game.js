@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "ZXTRM",
+  "id": "1DASU",
   "games": [
     [
-      "paleoliittiseen",
-      "Finnish"
+      "rembesan",
+      "Malay"
     ],
     [
-      "\u0e2b\u0e21\u0e39\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e17\u0e35\u0e48",
-      "Thai"
+      "paatriots",
+      "French"
     ],
     [
-      "y\u0131ld\u0131zlar",
-      "Turkish"
+      "pu\u00f2i",
+      "Italian"
     ],
     [
-      "jovens",
-      "Portuguese"
+      "swansont",
+      "Hungarian"
     ],
     [
-      "pha\u0309i",
-      "Vietnamese"
+      "ledede",
+      "Danish"
     ]
   ],
   "languages": [
