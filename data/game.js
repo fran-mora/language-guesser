@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "K7OYT",
+  "id": "75WVZ",
   "games": [
     [
-      "legszebb",
-      "Hungarian"
+      "rzymskie",
+      "Polish"
     ],
     [
-      "rebellionissa",
-      "Finnish"
+      "korrektionssystem",
+      "Danish"
     ],
     [
-      "zahlschrift",
-      "German"
+      "\ubc30\uc758",
+      "Korean"
     ],
     [
-      "\u0644\u0639\u0635\u0631",
-      "Arabic"
+      "\u5eb6\u6c11\u9662\u306e\u526f\u8b70\u9577\u306f\u8ab0\u3067\u3059\u304b",
+      "Japanese"
     ],
     [
-      "gravidez",
-      "Portuguese"
+      "\u0445\u043e\u0441\u0435\u043b\u0443",
+      "Russian"
     ]
   ],
   "languages": [
