@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "NL10P",
+  "id": "L4GJ0",
   "games": [
     [
-      "\u306e\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d3\u30c7\u30aa\u306e\u5973\u306e\u5b50\u306f\u8ab0\u3067\u3059\u304b",
-      "Japanese"
+      "contrazione",
+      "Italian"
     ],
     [
-      "stallning",
-      "Swedish"
+      "\u662f\u57fa\u4e8e\u8c01\u7684\u6545\u4e8b\u6539\u7f16\u7684",
+      "Chinese"
     ],
     [
-      "\u0441\u044c\u044e\u0437\u0430\u043d\u0430",
+      "\u044d\u043f\u043a\u043e\u0442",
       "Russian"
     ],
     [
-      "erupted",
-      "English"
+      "konvergenciaz\u00f3na",
+      "Hungarian"
     ],
     [
-      "\u1793\u17c3\u1796\u17c1\u179b\u179c\u17c1\u179b\u17b6\u1795\u17d2\u179f\u1784\u1796\u17d2\u179a\u17c1\u1784",
-      "Cambodian"
+      "\u062c\u0648\u0646\u064a",
+      "Arabic"
     ]
   ],
   "languages": [
