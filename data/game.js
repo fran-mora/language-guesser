@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "XSCH9",
+  "id": "XCHLF",
   "games": [
     [
-      "angelia",
-      "Finnish"
+      "kongresspartiet",
+      "Norwegian"
     ],
     [
-      "javasolt",
-      "Hungarian"
+      "oficerowie",
+      "Polish"
     ],
     [
-      "encik",
-      "Malay"
-    ],
-    [
-      "kuninkaallisen",
-      "Finnish"
-    ],
-    [
-      "snabbast",
+      "avr\u00e4ttningen",
       "Swedish"
+    ],
+    [
+      "\u05d1\u05de\u05ea\u05d7\u05ea",
+      "Hebrew"
+    ],
+    [
+      "\u043e\u0442\u0441\u0442\u0440\u0435\u043b\u0438\u043b\u0438",
+      "Russian"
     ]
   ],
   "languages": [
