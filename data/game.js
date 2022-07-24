@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "XCHLF",
+  "id": "Z44XN",
   "games": [
     [
-      "kongresspartiet",
-      "Norwegian"
+      "\u0627\u0644\u0623\u0635\u0648\u0644",
+      "Arabic"
     ],
     [
-      "oficerowie",
-      "Polish"
+      "ruolo",
+      "Italian"
     ],
     [
-      "avr\u00e4ttningen",
-      "Swedish"
+      "sat\u0131m",
+      "Turkish"
     ],
     [
-      "\u05d1\u05de\u05ea\u05d7\u05ea",
-      "Hebrew"
+      "bab\u00e1k",
+      "Hungarian"
     ],
     [
-      "\u043e\u0442\u0441\u0442\u0440\u0435\u043b\u0438\u043b\u0438",
-      "Russian"
+      "p\u00e1rna",
+      "Hungarian"
     ]
   ],
   "languages": [
