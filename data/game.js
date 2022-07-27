@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "Q6NOS",
+  "id": "3Q8FE",
   "games": [
     [
-      "\u0e01\u0e32\u0e23\u0e22\u0e01\u0e1e\u0e25\u0e02\u0e36\u0e49\u0e19\u0e1a\u0e01\u0e17\u0e35\u0e48\u0e19\u0e2d\u0e23\u0e4c\u0e21\u0e47\u0e2d\u0e07\u0e14\u0e35\u0e40\u0e23\u0e34\u0e48\u0e21\u0e02\u0e36\u0e49\u0e19\u0e40\u0e27\u0e25\u0e32\u0e44\u0e2b\u0e19",
-      "Thai"
+      "a\u00een\u00e9",
+      "French"
     ],
     [
-      "korthuset",
-      "Danish"
-    ],
-    [
-      "berechtigten",
-      "German"
-    ],
-    [
-      "kejohananan",
-      "Malay"
-    ],
-    [
-      "\u178f\u17be\u17a2\u17d2\u179c\u17b8\u1791\u17c5\u1787\u17b6\u1780\u17b6\u179a\u179c\u17b7\u179b\u178f\u17d2\u179a\u17a1\u1794\u17cb\u179a\u1794\u179f\u17cb",
+      "\u1791\u17b8\u1794\u17d2\u179a\u1787\u17bb\u17c6\u1787\u1793\u178a\u17c2\u179b\u1782\u17bd\u179a\u17b1\u17d2\u1799\u1781\u17d2\u179b\u17b6\u1785\u1793\u17c5\u1790\u17d2\u1784\u17c3\u179f\u17bb\u1780\u17d2\u179a\u1791\u17b8",
       "Cambodian"
+    ],
+    [
+      "\u3068\u3044\u3046\u6b4c\u306f\u8ab0\u306e\u6b4c\u3067\u3059\u304b",
+      "Japanese"
+    ],
+    [
+      "asilerin",
+      "Turkish"
+    ],
+    [
+      "seigneur",
+      "French"
     ]
   ],
   "languages": [
