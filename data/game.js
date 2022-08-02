@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "LI9EQ",
+  "id": "6W18A",
   "games": [
     [
-      "l\u00e4mnade",
-      "Swedish"
+      "\ubca0\ud2b8\ub0a8\uc804",
+      "Korean"
     ],
     [
-      "\u0434\u0435\u043b\u0430",
-      "Russian"
+      "va\u0300o",
+      "Vietnamese"
     ],
     [
-      "dividiu",
-      "Portuguese"
+      "arbejdsgivere",
+      "Danish"
     ],
     [
-      "cambieremo",
-      "Italian"
+      "rechtsstreitigkeiten",
+      "German"
     ],
     [
-      "biochemical",
-      "English"
+      "nukleotiden",
+      "German"
     ]
   ],
   "languages": [
