@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "8YKA1",
+  "id": "O4029",
   "games": [
     [
-      "\u30df\u30ba\u30fc\u30ea\u5dde\u3067\u30a2\u30eb\u30b3\u30fc\u30eb\u306e\u8ca9\u58f2\u3092\u3084\u3081\u308b\u306e\u306f\u3044\u3064\u3067\u3059\u304b",
-      "Japanese"
-    ],
-    [
-      "regjeringsmakt",
+      "merket",
       "Norwegian"
     ],
     [
-      "\u043c\u0430\u0441\u043b\u0438\u0446\u0430",
+      "sessioni",
+      "Italian"
+    ],
+    [
+      "\u0430\u043a\u0443\u043b\u044b",
       "Russian"
     ],
     [
-      "tienes",
-      "Spanish"
+      "\u17a2\u17d2\u1793\u1780\u178e\u17b6\u1785\u17d2\u179a\u17c0\u1784\u1796\u17d2\u179a\u17c4\u17c7\u179a\u17b6\u178f\u17d2\u179a\u17b8\u1787\u17b6\u1780\u1798\u17d2\u1798\u179f\u17b7\u1791\u17d2\u1792\u179a\u1794\u179f\u17cb\u17a2\u17d2\u1793\u1780\u179f\u17d2\u1793\u17c1\u17a0\u17b6",
+      "Cambodian"
     ],
     [
-      "\u00e9quip\u00e9es",
-      "French"
+      "conducted",
+      "English"
     ]
   ],
   "languages": [
