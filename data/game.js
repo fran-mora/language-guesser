@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "1OAI8",
+  "id": "O9ZOG",
   "games": [
     [
-      "\u05dc\u05e9\u05d1\u05d5\u05ea",
-      "Hebrew"
+      "kereskedjen",
+      "Hungarian"
     ],
     [
-      "kundeservicemedarbeider",
-      "Norwegian"
+      "f\u00f6ldter\u00fcletekhez",
+      "Hungarian"
     ],
     [
-      "\u178a\u17c2\u179b\u1787\u17b6\u1798\u1793\u17bb\u179f\u17d2\u179f\u1798\u17b6\u1793\u1787\u17b6\u1784\u1782\u17c1\u1794\u17c6\u1795\u17bb\u178f\u178a\u17be\u1798\u17d2\u1794\u17b8\u179a\u179f\u17cb\u1793\u17c5",
-      "Cambodian"
+      "andromedan",
+      "Finnish"
     ],
     [
-      "straffesparksfeltet",
-      "Danish"
+      "\u0e43\u0e04\u0e23\u0e04\u0e37\u0e2d\u0e1c\u0e39\u0e49\u0e0a\u0e19\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e47\u0e2d\u0e04\u0e41\u0e2b\u0e48\u0e07\u0e1b\u0e35",
+      "Thai"
     ],
     [
-      "nasza",
-      "Polish"
+      "\uc138\uacc4\ubb38\ud654\uc720\uc0b0\uc73c\ub85c",
+      "Korean"
     ]
   ],
   "languages": [
