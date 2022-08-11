@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "RPN01",
+  "id": "ZSATA",
   "games": [
     [
-      "concurrido",
-      "Spanish"
+      "aufkl\u00e4rung",
+      "German"
     ],
     [
-      "bu\u00f4n",
-      "Vietnamese"
+      "mooie",
+      "Dutch"
     ],
     [
-      "\u178f\u17be\u17a0\u17b6\u179c\u17c9\u17c3\u1794\u17b6\u1793\u1780\u17d2\u179b\u17b6\u1799\u1787\u17b6\u179a\u178a\u17d2\u178b\u1798\u17bd\u1799\u1793\u17c3\u179a\u178a\u17d2\u178b\u178a\u17c2\u179b\u179a\u17bd\u1794\u179a\u17bd\u1798\u1782\u17d2\u1793\u17b6\u1793\u17c5\u1796\u17c1\u179b\u178e\u17b6",
+      "\u178f\u17be\u179c\u17b6\u1786\u17d2\u1784\u17b6\u1799\u1794\u17c9\u17bb\u178e\u17d2\u178e\u17b6\u1796\u17b8\u1791\u17b8\u1793\u17c1\u17c7\u1791\u17c5\u179c\u17b8\u179b\u17d2\u179b\u17b8\u1793\u178f\u17bb\u1793\u178a\u17b6\u1780\u17b6\u178f\u17b6",
       "Cambodian"
     ],
     [
-      "nationalf\u00f6rsamlingen",
-      "Swedish"
+      "erniego",
+      "Polish"
     ],
     [
-      "tr\u00e4nade",
-      "Swedish"
+      "llevar",
+      "Spanish"
     ]
   ],
   "languages": [
