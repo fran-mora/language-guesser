@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "ZSATA",
+  "id": "7DNBZ",
   "games": [
     [
-      "aufkl\u00e4rung",
+      "formerly",
+      "English"
+    ],
+    [
+      "sprache",
       "German"
     ],
     [
-      "mooie",
-      "Dutch"
+      "\u0e44\u0e14\u0e49",
+      "Thai"
     ],
     [
-      "\u178f\u17be\u179c\u17b6\u1786\u17d2\u1784\u17b6\u1799\u1794\u17c9\u17bb\u178e\u17d2\u178e\u17b6\u1796\u17b8\u1791\u17b8\u1793\u17c1\u17c7\u1791\u17c5\u179c\u17b8\u179b\u17d2\u179b\u17b8\u1793\u178f\u17bb\u1793\u178a\u17b6\u1780\u17b6\u178f\u17b6",
-      "Cambodian"
+      "futur",
+      "French"
     ],
     [
-      "erniego",
-      "Polish"
-    ],
-    [
-      "llevar",
-      "Spanish"
+      "\u0e22\u0e32\u0e0a\u0e19\u0e34\u0e14\u0e44\u0e2b\u0e19\u0e17\u0e35\u0e48\u0e41\u0e2e\u0e23\u0e4c\u0e23\u0e35\u0e48",
+      "Thai"
     ]
   ],
   "languages": [
