@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "7DNBZ",
+  "id": "C93M8",
   "games": [
     [
-      "formerly",
-      "English"
+      "b\u00f6nor",
+      "Swedish"
     ],
     [
-      "sprache",
-      "German"
+      "\u05d0\u05df",
+      "Hebrew"
     ],
     [
-      "\u0e44\u0e14\u0e49",
-      "Thai"
+      "ph\u01b0\u1ee3ng",
+      "Vietnamese"
     ],
     [
-      "futur",
-      "French"
+      "consequ\u00eancias",
+      "Portuguese"
     ],
     [
-      "\u0e22\u0e32\u0e0a\u0e19\u0e34\u0e14\u0e44\u0e2b\u0e19\u0e17\u0e35\u0e48\u0e41\u0e2e\u0e23\u0e4c\u0e23\u0e35\u0e48",
-      "Thai"
+      "\u0648\u0635\u0644",
+      "Arabic"
     ]
   ],
   "languages": [
