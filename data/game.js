@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "1XN5E",
+  "id": "0LYLB",
   "games": [
     [
-      "federalis",
-      "Malay"
+      "\u00fcberfahrt",
+      "German"
     ],
     [
-      "piovere",
-      "Italian"
+      "abenes",
+      "Danish"
     ],
     [
-      "sansen",
-      "Norwegian"
+      "\u0432\u043e\u0434\u0438\u0442\u044c",
+      "Russian"
     ],
     [
-      "woon",
-      "Dutch"
+      "ans\u00e6ttelse",
+      "Danish"
     ],
     [
-      "currency",
-      "English"
+      "courrier",
+      "French"
     ]
   ],
   "languages": [
