@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "CVQTN",
+  "id": "B30JN",
   "games": [
     [
-      "\u1795\u17d2\u1793\u17c2\u1780\u1781\u17d2\u179b\u17c7\u1793\u17c3\u1794\u17d2\u179a\u1791\u17c1\u179f\u17a0\u17d2\u179c\u17b8\u179b\u17b8\u1796\u17b8\u1793\u1798\u17b6\u1793\u1785\u17c6\u1793\u17bd\u1793\u178f\u17b7\u1785\u1794\u17c6\u1795\u17bb\u178f\u1793\u17c3\u1797\u17d2\u1793\u17c6\u1797\u17d2\u179b\u17be\u1784\u179f\u1780\u1798\u17d2\u1798",
+      "ber\u00fchmtheit",
+      "German"
+    ],
+    [
+      "eti\u00f3pia",
+      "Portuguese"
+    ],
+    [
+      "\u30dd\u30c3\u30d7\u30b7\u30f3\u30ac\u30fc\u306e\u65b0\u305f\u306a\u5f62\u3092\u78ba\u7acb\u3057\u305f\u306e\u306f\u8ab0\u3067\u3059\u304b",
+      "Japanese"
+    ],
+    [
+      "\u17a2\u17d2\u1793\u1780\u178a\u17c2\u179b\u179f\u179a\u179f\u17c1\u179a\u1794\u1791\u1785\u1798\u17d2\u179a\u17c0\u1784\u178f\u17d2\u179a\u17bc\u179c\u1794\u1784\u17d2\u17a0\u17b6\u1789",
       "Cambodian"
     ],
     [
-      "\u83b7\u5f97\u65b0\u809d\u810f\u662f\u54ea\u4e00\u5b63",
-      "Chinese"
-    ],
-    [
-      "pleurer",
-      "French"
-    ],
-    [
-      "isovolemic",
-      "English"
-    ],
-    [
-      "mikail",
-      "Turkish"
+      "drenagem",
+      "Portuguese"
     ]
   ],
   "languages": [
