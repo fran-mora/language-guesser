@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "DOCS9",
+  "id": "EY0Q9",
   "games": [
     [
-      "added",
+      "cefalopodos",
+      "Spanish"
+    ],
+    [
+      "fizette",
+      "Hungarian"
+    ],
+    [
+      "environment",
       "English"
     ],
     [
-      "stadtbahn",
-      "German"
+      "\u0441\u043e\u0439\u043a\u0430\u2011\u043f\u0435\u0440\u0435\u0441\u043c\u0435\u0448\u043d\u0438\u0446\u0430",
+      "Russian"
     ],
     [
-      "plads",
-      "Danish"
-    ],
-    [
-      "\u05de\u05dc\u05e8\u05e7\u05d5\u05d3",
-      "Hebrew"
-    ],
-    [
-      "c\u00f9ng",
-      "Vietnamese"
+      "\u897f\u65af\u5ef7\u6559\u5802\u58c1\u753b\u91c7\u7528\u7684",
+      "Chinese"
     ]
   ],
   "languages": [
