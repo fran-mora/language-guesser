@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "INHLK",
+  "id": "KIUC4",
   "games": [
     [
-      "\u0627\u0644\u0639\u0646\u0627\u0643\u0628",
-      "Arabic"
-    ],
-    [
-      "piatta",
+      "nascosta",
       "Italian"
     ],
     [
-      "titula\u00e7\u00e3o",
-      "Portuguese"
+      "\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27",
+      "Thai"
     ],
     [
-      "\u30ef\u30a4\u30e4\u30ec\u30b9\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u30de\u30a6\u30b9\u304c\u521d\u3081\u3066\u767a\u660e\u3055\u308c\u305f\u306e\u306f\u3044\u3064\u3067\u3059\u304b",
+      "s\u0131n\u0131rlamak",
+      "Turkish"
+    ],
+    [
+      "\u30cf\u30ef\u30a4\u306f\u3044\u3064\u30a2\u30e1\u30ea\u30ab\u306e\u4e00\u90e8\u306b\u306a\u3063\u305f",
       "Japanese"
     ],
     [
-      "\u0e2b\u0e19\u0e31\u0e01\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48",
-      "Thai"
+      "waard",
+      "Dutch"
     ]
   ],
   "languages": [
