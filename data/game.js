@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "KIUC4",
+  "id": "131DV",
   "games": [
     [
-      "nascosta",
+      "chleb",
+      "Polish"
+    ],
+    [
+      "frust",
+      "German"
+    ],
+    [
+      "\u0642\u0628\u0637\u0627\u0646",
+      "Arabic"
+    ],
+    [
+      "anima",
       "Italian"
     ],
     [
-      "\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27",
-      "Thai"
-    ],
-    [
-      "s\u0131n\u0131rlamak",
-      "Turkish"
-    ],
-    [
-      "\u30cf\u30ef\u30a4\u306f\u3044\u3064\u30a2\u30e1\u30ea\u30ab\u306e\u4e00\u90e8\u306b\u306a\u3063\u305f",
+      "\u300d\u306f\u8ab0\u304c\u6b4c\u3063\u3066\u3044\u307e\u3059\u304b",
       "Japanese"
-    ],
-    [
-      "waard",
-      "Dutch"
     ]
   ],
   "languages": [
