@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "0HJRS",
+  "id": "YG4IC",
   "games": [
     [
-      "v\u00e4itteist\u00e4",
+      "\u7684\u6d77\u62d4\u9ad8\u5ea6\u662f\u591a\u5c11",
+      "Chinese"
+    ],
+    [
+      "staatsplan",
+      "German"
+    ],
+    [
+      "kansalainen",
       "Finnish"
     ],
     [
-      "cs\u00facs\u00e1t",
-      "Hungarian"
+      "sier\u017cant",
+      "Polish"
     ],
     [
-      "d\u00e6kker",
-      "Danish"
-    ],
-    [
-      "pedagogiska",
-      "Swedish"
-    ],
-    [
-      "uygulama",
-      "Turkish"
+      "th\u1ed5i",
+      "Vietnamese"
     ]
   ],
   "languages": [
