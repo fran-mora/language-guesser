@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "2QVKB",
+  "id": "3IG39",
   "games": [
     [
-      "behagelig",
-      "Danish"
+      "\u05d2\u05e8\u05d4",
+      "Hebrew"
     ],
     [
-      "\u0e42\u0e15\u0e4a\u0e30\u0e1e\u0e39\u0e25\u0e21\u0e35\u0e02\u0e19\u0e32\u0e14\u0e40\u0e1b\u0e47\u0e19\u0e1f\u0e38\u0e15\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48",
-      "Thai"
+      "j\u00fcpiter",
+      "Turkish"
     ],
     [
-      "klientcentreret",
-      "Danish"
+      "oszt\u00f3dnak",
+      "Hungarian"
     ],
     [
-      "menggantikan",
-      "Malay"
+      "avaa",
+      "Finnish"
     ],
     [
-      "vendiga",
-      "Spanish"
+      "\u178a\u17c2\u179b\u1798\u17b6\u1793\u17a2\u17d2\u1793\u1780\u178f\u17b6\u1798\u1785\u17d2\u179a\u17be\u1793\u1794\u17c6\u1795\u17bb\u178f\u1793\u17c5\u179b\u17be",
+      "Cambodian"
     ]
   ],
   "languages": [
