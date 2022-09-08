@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "GLHKQ",
+  "id": "BD116",
   "games": [
     [
-      "\uc624\ud504\uc758",
-      "Korean"
+      "arbejdsl\u00f8sheden",
+      "Danish"
     ],
     [
-      "yirmi",
-      "Turkish"
+      "befogenheter",
+      "Swedish"
     ],
     [
-      "\u178f\u17be\u179b\u17b8\u1782\u1787\u17be\u1784\u17af\u1780\u1785\u17c6\u1793\u17bd\u1793\u1794\u17c9\u17bb\u1793\u17d2\u1798\u17b6\u1793",
-      "Cambodian"
+      "kreditter",
+      "Danish"
     ],
     [
-      "\u043a\u0430\u0447\u0435\u0441\u0442\u0432\u043e\u043c",
-      "Russian"
+      "impiega",
+      "Italian"
     ],
     [
-      "szanghajskiej",
-      "Polish"
+      "supermarked",
+      "Danish"
     ]
   ],
   "languages": [
