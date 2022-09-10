@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "VATJZ",
+  "id": "KQIVV",
   "games": [
     [
-      "\u178a\u17c2\u179b\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u1785\u17bb\u17c7\u1794\u1789\u17d2\u1787\u17b8\u1793\u17c5\u1780\u17d2\u1793\u17bb\u1784\u179c\u1785\u1793\u17b6\u1793\u17bb\u1780\u17d2\u179a\u1798\u1790\u17d2\u1798\u17b8\u1793\u17c3\u178f\u1793\u17d2\u178f\u17d2\u179a\u17b8\u1793\u17b7\u1784\u178f\u1793\u17d2\u179a\u17d2\u178f\u17b8\u1780\u179a",
-      "Cambodian"
-    ],
-    [
-      "modific\u00f3",
-      "Spanish"
-    ],
-    [
-      "tegengesteld",
+      "doodgegaan",
       "Dutch"
     ],
     [
-      "collaboration",
-      "Danish"
+      "chespeake",
+      "Vietnamese"
     ],
     [
-      "\u043f\u043e\u0434\u0431\u043e\u0440\u043e\u0434\u043a\u043e\u043c",
+      "\ud0c0\uc784\ub77c\uc778",
+      "Korean"
+    ],
+    [
+      "\u043d\u043e\u0447\u043d\u043e\u043c",
       "Russian"
+    ],
+    [
+      "\u05d0\u05e1\u05d5\u05e8\u05d9\u05dd",
+      "Hebrew"
     ]
   ],
   "languages": [
