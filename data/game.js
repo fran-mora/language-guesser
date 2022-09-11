@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "KQIVV",
+  "id": "7073F",
   "games": [
     [
-      "doodgegaan",
-      "Dutch"
+      "ba\u015fkan\u0131n",
+      "Turkish"
     ],
     [
-      "chespeake",
-      "Vietnamese"
+      "traversent",
+      "French"
     ],
     [
-      "\ud0c0\uc784\ub77c\uc778",
+      "esun",
+      "Spanish"
+    ],
+    [
+      "\uc758\uc2ec\ud558\ub294",
       "Korean"
     ],
     [
-      "\u043d\u043e\u0447\u043d\u043e\u043c",
-      "Russian"
-    ],
-    [
-      "\u05d0\u05e1\u05d5\u05e8\u05d9\u05dd",
-      "Hebrew"
+      "ursprungliga",
+      "Swedish"
     ]
   ],
   "languages": [
