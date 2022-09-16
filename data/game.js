@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "60GKP",
+  "id": "QW7EL",
   "games": [
     [
-      "allenamento",
-      "Italian"
+      "\u0633\u0644\u0629",
+      "Arabic"
     ],
     [
-      "samotnych",
-      "Polish"
+      "\u30d9\u30a4\u30c4\u30fb\u30e2\u30fc\u30c6\u30eb\u3067\u30ce\u30fc\u30de\u30f3\u306e\u5148\u751f\u3092\u6f14\u3058\u3066\u3044\u308b\u306e\u306f\u8ab0\u3067\u3059\u304b",
+      "Japanese"
     ],
     [
-      "\u0e27\u0e35\u0e14\u0e35\u0e42\u0e2d\u0e17\u0e32\u0e07\u0e01\u0e32\u0e23",
-      "Thai"
+      "\u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u0430\u044f",
+      "Russian"
     ],
     [
-      "\u7684\u54ea\u4e00\u5b63\u91cc\u6709",
-      "Chinese"
+      "depressiota",
+      "Finnish"
     ],
     [
-      "i\u0307spanyol",
-      "Turkish"
+      "ervilha",
+      "Portuguese"
     ]
   ],
   "languages": [
