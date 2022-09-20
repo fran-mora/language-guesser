@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "JREY0",
+  "id": "RDCM0",
   "games": [
     [
-      "mengumpulkan",
+      "amerikalla",
+      "Finnish"
+    ],
+    [
+      "\u05e4\u05e9\u05e2",
+      "Hebrew"
+    ],
+    [
+      "ny\u00e5r",
+      "Swedish"
+    ],
+    [
+      "agr\u00e9\u00e9",
+      "French"
+    ],
+    [
+      "kesatuan",
       "Malay"
-    ],
-    [
-      "\u1781\u17d2\u1789\u17bb\u17c6\u200b\u1794\u17b6\u1793\u200b\u1794\u17b6\u1789\u17cb\u200b\u178f\u1798\u17d2\u179a\u17bd\u178f",
-      "Cambodian"
-    ],
-    [
-      "trenches",
-      "English"
-    ],
-    [
-      "leefden",
-      "Dutch"
-    ],
-    [
-      "\u4ee5\u4e0b\u54ea\u4e00\u9879\u4e0d\u662f\u653f\u5e9c\u4f5c\u4e3a\u4ed8\u6b3e\u6765\u6e90\u7684\u793a\u4f8b",
-      "Chinese"
     ]
   ],
   "languages": [
