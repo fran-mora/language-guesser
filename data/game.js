@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "T0AJO",
+  "id": "HYFG2",
   "games": [
     [
-      "poliestru",
-      "Polish"
+      "itsen\u00e4isyysprosessissa",
+      "Finnish"
     ],
     [
-      "t\u0151k\u00e9b\u0151l",
+      "\u00e9rintette",
       "Hungarian"
     ],
     [
-      "hidup",
-      "Malay"
+      "entdeckung",
+      "German"
     ],
     [
-      "\u05e6\u05e2\u05d3\u05d5",
-      "Hebrew"
+      "\u0434\u0440\u0435\u0432\u0435\u0441\u0438\u043d\u0443",
+      "Russian"
     ],
     [
-      "m\u00f6rdad",
-      "Swedish"
+      "\u200b\u200bbryant",
+      "Vietnamese"
     ]
   ],
   "languages": [
