@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "RCH4W",
+  "id": "ATA97",
   "games": [
     [
-      "xo\u00e1y",
-      "Vietnamese"
+      "veda",
+      "Malay"
     ],
     [
-      "gioc\u00f2",
+      "inspire",
+      "French"
+    ],
+    [
+      "uszk\u00e1r",
+      "Hungarian"
+    ],
+    [
+      "rodesia",
+      "Spanish"
+    ],
+    [
+      "incantata",
       "Italian"
-    ],
-    [
-      "r\u00e0ng",
-      "Vietnamese"
-    ],
-    [
-      "gevoelig",
-      "Dutch"
-    ],
-    [
-      "\u0445\u0430\u0439\u0434\u0435\u0433\u0433\u0435\u0440\u0430",
-      "Russian"
     ]
   ],
   "languages": [
