@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "X1ZBE",
+  "id": "EAWQ3",
   "games": [
     [
-      "leimaverolaki",
-      "Finnish"
+      "tyrant",
+      "English"
     ],
     [
-      "caindo",
-      "Portuguese"
+      "friedenliebe",
+      "German"
     ],
     [
-      "\u54c8\u5229\u6ce2\u7279\u7cfb\u5217\u4e2d",
-      "Chinese"
+      "piala",
+      "Malay"
     ],
     [
-      "forlot",
-      "Norwegian"
+      "promuovere",
+      "Italian"
     ],
     [
-      "residenciales",
-      "Spanish"
+      "\u0633\u0644\u0633\u0644\u0647",
+      "Arabic"
     ]
   ],
   "languages": [
