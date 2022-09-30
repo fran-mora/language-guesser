@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "EAWQ3",
+  "id": "77G0M",
   "games": [
     [
-      "tyrant",
-      "English"
+      "fumegantes",
+      "Portuguese"
     ],
     [
-      "friedenliebe",
-      "German"
+      "leveret",
+      "Danish"
     ],
     [
-      "piala",
-      "Malay"
+      "rel\u00e9gu\u00e9s",
+      "French"
     ],
     [
-      "promuovere",
-      "Italian"
+      "\u0e43\u0e04\u0e23\u0e04\u0e37\u0e2d\u0e1c\u0e39\u0e49\u0e40\u0e25\u0e48\u0e19\u0e43\u0e19\u0e17\u0e35\u0e21\u0e42\u0e01\u0e25\u0e40\u0e14\u0e49\u0e19",
+      "Thai"
     ],
     [
-      "\u0633\u0644\u0633\u0644\u0647",
-      "Arabic"
+      "havane",
+      "French"
     ]
   ],
   "languages": [
