@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "77G0M",
+  "id": "XWPPL",
   "games": [
     [
-      "fumegantes",
-      "Portuguese"
+      "planets",
+      "English"
     ],
     [
-      "leveret",
-      "Danish"
+      "coeloom",
+      "Dutch"
     ],
     [
-      "rel\u00e9gu\u00e9s",
-      "French"
+      "\u178f\u17be\u17a2\u17d2\u179c\u17b8\u1787\u17b6\u1797\u17b6\u1796\u1781\u17bb\u179f\u1782\u17d2\u1793\u17b6\u179a\u179c\u17b6\u1784",
+      "Cambodian"
     ],
     [
-      "\u0e43\u0e04\u0e23\u0e04\u0e37\u0e2d\u0e1c\u0e39\u0e49\u0e40\u0e25\u0e48\u0e19\u0e43\u0e19\u0e17\u0e35\u0e21\u0e42\u0e01\u0e25\u0e40\u0e14\u0e49\u0e19",
-      "Thai"
+      "\u30b8\u30e3\u30f3\u30b0\u30eb\u5927\u5e1d",
+      "Japanese"
     ],
     [
-      "havane",
-      "French"
+      "v\u00e4derkanalen",
+      "Swedish"
     ]
   ],
   "languages": [
