@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "IGZNS",
+  "id": "6VY5L",
   "games": [
     [
-      "gymnasieutbildning",
-      "Swedish"
+      "\uc544\ubc84\uc9c0\ub97c",
+      "Korean"
     ],
     [
-      "constant",
-      "English"
-    ],
-    [
-      "\u0627\u0644\u062a\u0631\u0643\u064a\u0632",
+      "\u0645\u0642\u0628\u0636",
       "Arabic"
     ],
     [
-      "bi\u00ea\u0301t",
-      "Vietnamese"
+      "\u05d0\u05d9\u05dc\u05d9",
+      "Hebrew"
     ],
     [
-      "ch\u00faa",
-      "Vietnamese"
+      "ischiska",
+      "Swedish"
+    ],
+    [
+      "mit\u00e4\u00e4n",
+      "Finnish"
     ]
   ],
   "languages": [
