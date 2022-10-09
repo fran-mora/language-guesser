@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "D34RU",
+  "id": "359E9",
   "games": [
     [
-      "piccoli",
-      "Italian"
-    ],
-    [
-      "britanni\u00e1ban",
-      "Hungarian"
-    ],
-    [
-      "inskripsjonene",
-      "Norwegian"
-    ],
-    [
-      "fusjon",
-      "Norwegian"
-    ],
-    [
-      "\u30a2\u30f3\u30ab\u30c3\u30c8\u306e\u82f1\u8a9e\u5439\u66ff\u7248\u6620\u753b",
+      "\u30b7\u30a8\u30eb\u306f\u5951\u7d04\u3057\u305f\u3068\u304d\u3001\u4f55\u6b73\u3067\u3057\u305f\u304b",
       "Japanese"
+    ],
+    [
+      "d\u01b0\u1ee3c",
+      "Vietnamese"
+    ],
+    [
+      "caminos",
+      "Spanish"
+    ],
+    [
+      "\u0437\u0430\u0440\u0430\u0431\u043e\u0442\u043d\u0430\u044f",
+      "Russian"
+    ],
+    [
+      "insatsfaktorn",
+      "Swedish"
     ]
   ],
   "languages": [
