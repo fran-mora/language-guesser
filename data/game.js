@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "GZKJD",
+  "id": "F0CTL",
   "games": [
     [
-      "tory",
-      "Polish"
+      "atendimento",
+      "Portuguese"
     ],
     [
-      "memberik",
-      "Malay"
+      "l\u01b0\u1ee3ng",
+      "Vietnamese"
     ],
     [
-      "hovedparten",
-      "Danish"
+      "\ubb38\uc81c\ub85c\ub2e4\ub97c",
+      "Korean"
     ],
     [
-      "interaktiivinen",
-      "Finnish"
+      "\u30d5\u30a3\u30ca\u30fc\u30ec\u306f\u4f55\u3067\u3057\u305f\u304b",
+      "Japanese"
     ],
     [
-      "levelez\u0151",
-      "Hungarian"
+      "aldeidi",
+      "Italian"
     ]
   ],
   "languages": [
