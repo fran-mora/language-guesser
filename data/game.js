@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "F0CTL",
+  "id": "UK2I5",
   "games": [
     [
-      "atendimento",
-      "Portuguese"
-    ],
-    [
-      "l\u01b0\u1ee3ng",
-      "Vietnamese"
-    ],
-    [
-      "\ubb38\uc81c\ub85c\ub2e4\ub97c",
-      "Korean"
-    ],
-    [
-      "\u30d5\u30a3\u30ca\u30fc\u30ec\u306f\u4f55\u3067\u3057\u305f\u304b",
+      "\u672b\u7aef\u306f\u4f55\u3067\u3059\u304b",
       "Japanese"
     ],
     [
-      "aldeidi",
-      "Italian"
+      "\u01b0\u01a1ng",
+      "Vietnamese"
+    ],
+    [
+      "konjunktivaen",
+      "Norwegian"
+    ],
+    [
+      "fikirlerinden",
+      "Turkish"
+    ],
+    [
+      "proceso",
+      "Spanish"
     ]
   ],
   "languages": [
