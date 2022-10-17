@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "1MLD5",
+  "id": "BIALB",
   "games": [
     [
-      "procurador",
-      "Portuguese"
+      "\u0e0a\u0e48\u0e27\u0e07\u0e40\u0e27\u0e25\u0e32\u0e17\u0e35\u0e48",
+      "Thai"
     ],
     [
-      "impostos",
-      "Portuguese"
+      "congresos",
+      "Spanish"
     ],
     [
-      "kanin",
-      "Danish"
-    ],
-    [
-      "nordv\u00e4stra",
+      "inom",
       "Swedish"
     ],
     [
-      "apparat",
-      "Danish"
+      "\uc54c\ub824\uc9c4",
+      "Korean"
+    ],
+    [
+      "tervvel",
+      "Hungarian"
     ]
   ],
   "languages": [
