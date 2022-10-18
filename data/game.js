@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "BIALB",
+  "id": "1ECI1",
   "games": [
     [
-      "\u0e0a\u0e48\u0e27\u0e07\u0e40\u0e27\u0e25\u0e32\u0e17\u0e35\u0e48",
-      "Thai"
+      "hangulat\u00e1t",
+      "Hungarian"
     ],
     [
-      "congresos",
-      "Spanish"
-    ],
-    [
-      "inom",
-      "Swedish"
-    ],
-    [
-      "\uc54c\ub824\uc9c4",
+      "\uc5b8\uc81c",
       "Korean"
     ],
     [
-      "tervvel",
+      "juthok",
       "Hungarian"
+    ],
+    [
+      "bug\u00fcn",
+      "Turkish"
+    ],
+    [
+      "ekonomistyrning",
+      "Swedish"
     ]
   ],
   "languages": [
