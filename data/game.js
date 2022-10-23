@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "RCKH2",
+  "id": "DAK4E",
   "games": [
     [
-      "zaleg\u0142o\u015b\u0107",
-      "Polish"
+      "l\u2019ulna",
+      "French"
     ],
     [
-      "brit\u00e1nica",
-      "Spanish"
+      "\u05d4\u05de\u05d9\u05e7\u05d5\u05dd",
+      "Hebrew"
     ],
     [
-      "baas",
+      "lidar",
+      "Portuguese"
+    ],
+    [
+      "offici\u00eble",
       "Dutch"
     ],
     [
-      "localiza\u00e7\u00f5es",
-      "Portuguese"
-    ],
-    [
-      "armist\u00edcio",
-      "Portuguese"
+      "beinet",
+      "Norwegian"
     ]
   ],
   "languages": [
