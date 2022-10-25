@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "MPMOK",
+  "id": "OUAPN",
   "games": [
     [
-      "chooses",
-      "English"
+      "kar\u015f\u0131yd\u0131",
+      "Turkish"
     ],
     [
-      "pele",
-      "Portuguese"
-    ],
-    [
-      "\uc0c1\ud0dc\uc640",
+      "\ub450\ub824\uc6b4",
       "Korean"
     ],
     [
-      "elementti",
-      "Finnish"
+      "\ud3f4\ub780\ub4dc\uc5d0",
+      "Korean"
     ],
     [
-      "tu\u00f4\u0309i",
-      "Vietnamese"
+      "\u05ea\u05e7\u05e6\u05d9\u05e8",
+      "Hebrew"
+    ],
+    [
+      "ma\u00f1ana",
+      "Spanish"
     ]
   ],
   "languages": [
