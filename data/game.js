@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "VZ69J",
+  "id": "CF8OA",
   "games": [
     [
-      "philosophe",
-      "French"
+      "pertaruhan",
+      "Malay"
     ],
     [
-      "\u05d4\u05e4\u05d9\u05e0\u05dc\u05d4",
-      "Hebrew"
+      "marta",
+      "Portuguese"
     ],
     [
-      "grootste",
-      "Dutch"
+      "hozhat\u00f3",
+      "Hungarian"
     ],
     [
-      "tsjechi\u00eb",
-      "Dutch"
-    ],
-    [
-      "\u0e41\u0e1e\u0e19\u0e40\u0e18\u0e2d\u0e23\u0e4c\u0e21\u0e32\u0e08\u0e32\u0e01\u0e44\u0e2b\u0e19",
+      "\u0e17\u0e32\u0e40\u0e25\u0e19\u0e15\u0e4c\u0e43\u0e19\u0e1b\u0e35",
       "Thai"
+    ],
+    [
+      "hinterlie\u00df",
+      "German"
     ]
   ],
   "languages": [
