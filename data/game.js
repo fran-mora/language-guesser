@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "CF8OA",
+  "id": "WM8ZD",
   "games": [
     [
-      "pertaruhan",
-      "Malay"
+      "\u043f\u0438\u0437\u044b",
+      "Russian"
     ],
     [
-      "marta",
-      "Portuguese"
+      "tr\u1ea3i",
+      "Vietnamese"
     ],
     [
-      "hozhat\u00f3",
-      "Hungarian"
-    ],
-    [
-      "\u0e17\u0e32\u0e40\u0e25\u0e19\u0e15\u0e4c\u0e43\u0e19\u0e1b\u0e35",
+      "\u0e40\u0e1f\u0e40\u0e14\u0e2d\u0e40\u0e23\u0e2d\u0e23\u0e4c\u0e0a\u0e19\u0e30\u0e42\u0e23\u0e25\u0e31\u0e07\u0e14\u0e4c",
       "Thai"
     ],
     [
-      "hinterlie\u00df",
-      "German"
+      "eenheden",
+      "Dutch"
+    ],
+    [
+      "erupt",
+      "English"
     ]
   ],
   "languages": [
