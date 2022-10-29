@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "WM8ZD",
+  "id": "HRF4T",
   "games": [
     [
-      "\u043f\u0438\u0437\u044b",
-      "Russian"
-    ],
-    [
-      "tr\u1ea3i",
+      "albu",
       "Vietnamese"
     ],
     [
-      "\u0e40\u0e1f\u0e40\u0e14\u0e2d\u0e40\u0e23\u0e2d\u0e23\u0e4c\u0e0a\u0e19\u0e30\u0e42\u0e23\u0e25\u0e31\u0e07\u0e14\u0e4c",
+      "\u30aa\u30cf\u30a4\u30aa\u5ddd\u306f\u3069\u3053\u3067\u30df\u30b7\u30b7\u30c3\u30d4\u5ddd\u3068\u5408\u6d41\u3059\u308b",
+      "Japanese"
+    ],
+    [
+      "\u178a\u17c2\u179b\u1787\u17b6\u1780\u1793\u17d2\u179b\u17c2\u1784\u178a\u17c2\u179b\u178f\u17be",
+      "Cambodian"
+    ],
+    [
+      "\u8003\u8651\u5730\u70b9\u4e4b\u95f4\u7684\u751f\u6d3b\u6210\u672c\u5dee\u5f02\u65f6\uff0c\u54ea\u79cd\u7c7b\u578b\u7684\u6210\u672c\u6bd4\u8f83\u7a81\u51fa",
+      "Chinese"
+    ],
+    [
+      "\u0e42\u0e19\u0e27\u0e32\u0e2a\u0e42\u0e01\u0e40\u0e17\u0e35\u0e22\u0e04\u0e37\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48",
       "Thai"
-    ],
-    [
-      "eenheden",
-      "Dutch"
-    ],
-    [
-      "erupt",
-      "English"
     ]
   ],
   "languages": [
