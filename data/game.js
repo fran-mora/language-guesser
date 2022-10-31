@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "07X07",
+  "id": "DK49G",
   "games": [
     [
-      "\u05de\u05d7\u05dc\u05e7",
-      "Hebrew"
+      "kvindelandshold",
+      "Danish"
     ],
     [
-      "englischsprachige",
-      "German"
-    ],
-    [
-      "zachte",
-      "Dutch"
-    ],
-    [
-      "mencium",
+      "satelit",
       "Malay"
     ],
     [
-      "stra\u017cnicy",
+      "streszczenie",
       "Polish"
+    ],
+    [
+      "sitater",
+      "Norwegian"
+    ],
+    [
+      "sj\u00f8er",
+      "Norwegian"
     ]
   ],
   "languages": [
