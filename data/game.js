@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "DK49G",
+  "id": "VNMIM",
   "games": [
     [
-      "kvindelandshold",
+      "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e22\u0e48\u0e2d\u0e02\u0e2d\u0e07\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07",
+      "Thai"
+    ],
+    [
+      "placeringer",
       "Danish"
     ],
     [
-      "satelit",
-      "Malay"
+      "merger",
+      "English"
     ],
     [
-      "streszczenie",
-      "Polish"
-    ],
-    [
-      "sitater",
+      "talsmann",
       "Norwegian"
     ],
     [
-      "sj\u00f8er",
-      "Norwegian"
+      "modstandsbev\u00e6gelse",
+      "Danish"
     ]
   ],
   "languages": [
