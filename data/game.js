@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "SMG98",
+  "id": "4ENLX",
   "games": [
     [
-      "\u062a\u064a\u062a\u064a\u0643\u0627\u0643\u0627",
-      "Arabic"
+      "wereldkaart",
+      "Dutch"
     ],
     [
-      "\u5230\u5357\u5361\u7f57\u6765\u7eb3\u5dde\u7684",
-      "Chinese"
+      "hiekkaa",
+      "Finnish"
     ],
     [
-      "krall\u0131\u011f\u0131n\u0131",
-      "Turkish"
+      "resolved",
+      "English"
     ],
     [
-      "\u0e0a\u0e19\u0e30\u0e2a\u0e41\u0e15\u0e19\u0e25\u0e35\u0e22\u0e4c\u0e04\u0e31\u0e1e\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48",
-      "Thai"
+      "replikaatio",
+      "Finnish"
     ],
     [
-      "\u05d7\u05de\u05d9\u05e9\u05d9\u05dd",
-      "Hebrew"
+      "\u5c65\u4fee\u5358\u4f4d\u3092\u63d0\u4f9b\u3057\u306a\u304c\u3089\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u30b5\u30fc\u30d3\u30b9\u6d3b\u52d5\u3092\u95a2\u4e0e\u3059\u308b\u30b3\u30fc\u30b9\u306f\u4f55\u3068\u547c\u3070\u308c\u307e\u3059",
+      "Japanese"
     ]
   ],
   "languages": [
