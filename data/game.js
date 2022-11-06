@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "CED40",
+  "id": "3ZLIZ",
   "games": [
     [
-      "traagheidsmoment",
-      "Dutch"
-    ],
-    [
-      "echec",
+      "v\u00e9ritable",
       "French"
     ],
     [
-      "\ud655\ub9bd\ud558\ub294\ub370",
-      "Korean"
+      "derzeitig",
+      "German"
     ],
     [
-      "\u0171rhaj\u00f3sok",
-      "Hungarian"
+      "\u30ea\u30d0\u30d7\u30fc\u30eb\u304c\u6700\u5f8c\u306b\u512a\u52dd\u3057\u305f\u306e\u306f\u3044\u3064",
+      "Japanese"
     ],
     [
-      "\u05d1\u05d9\u05d2\u05e4\u05d5\u05d8",
-      "Hebrew"
+      "\u0628\u0648\u0631\u062a\u0644\u0627\u0646\u062f",
+      "Arabic"
+    ],
+    [
+      "\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e14\u0e49\u0e04\u0e19\u0e23\u0e31\u0e01\u0e02\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e04\u0e37\u0e19",
+      "Thai"
     ]
   ],
   "languages": [
