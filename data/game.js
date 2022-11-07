@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "3ZLIZ",
+  "id": "XB1DJ",
   "games": [
     [
-      "v\u00e9ritable",
-      "French"
+      "\u178f\u17be\u17a2\u17d2\u1793\u1780\u178e\u17b6\u1787\u17b6\u179f\u1798\u17b6\u1787\u17b7\u1780\u1780\u17d2\u179a\u17bb\u1798\u178f\u1793\u17d2\u179a\u17d2\u178f\u17b8\u17a5\u1793\u17d2\u1791\u17d2\u179a\u17b8",
+      "Cambodian"
     ],
     [
-      "derzeitig",
-      "German"
+      "\u05e0\u05d9\u05e6\u05d7",
+      "Hebrew"
     ],
     [
-      "\u30ea\u30d0\u30d7\u30fc\u30eb\u304c\u6700\u5f8c\u306b\u512a\u52dd\u3057\u305f\u306e\u306f\u3044\u3064",
+      "uygulamas\u0131",
+      "Turkish"
+    ],
+    [
+      "tvillingtornen",
+      "Swedish"
+    ],
+    [
+      "\u5357\u5317\u6226\u4e89\u3067\u30b7\u30e3\u30a4\u30ed\u30fc\u306e\u6226\u3044\u306f\u3069\u3053\u3067\u8d77\u3053\u3063\u305f\u304b",
       "Japanese"
-    ],
-    [
-      "\u0628\u0648\u0631\u062a\u0644\u0627\u0646\u062f",
-      "Arabic"
-    ],
-    [
-      "\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e14\u0e49\u0e04\u0e19\u0e23\u0e31\u0e01\u0e02\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e04\u0e37\u0e19",
-      "Thai"
     ]
   ],
   "languages": [
