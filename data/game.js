@@ -1,24 +1,24 @@
 var GAME = {
-  "id": "YLM2T",
+  "id": "39ZK9",
   "games": [
     [
-      "beynimizde",
-      "Turkish"
+      "indsendelse",
+      "Danish"
     ],
     [
-      "\u7532\u677f\u4e0a\u7684\u5957\u95f4\u751f\u6d3b",
-      "Chinese"
+      "surgeries",
+      "English"
     ],
     [
-      "alantic",
-      "Vietnamese"
+      "kedaulatan",
+      "Malay"
     ],
     [
-      "\u05dc\u05db\u05dc\u05db\u05dc\u05df",
-      "Hebrew"
+      "viktigheten",
+      "Norwegian"
     ],
     [
-      "tidpunkten",
+      "ljusstr\u00e5larna",
       "Swedish"
     ]
   ],
