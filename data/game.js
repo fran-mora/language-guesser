@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "JPG58",
+  "id": "Y1NPW",
   "games": [
     [
-      "colonists",
-      "English"
+      "wschodzi",
+      "Polish"
     ],
     [
-      "\u17a2\u17d2\u179c\u17b8\u178a\u17c2\u179b\u1787\u17b6\u1785\u17c6\u1793\u17bd\u1793\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u1793\u17c3\u1794\u17c9\u17bc\u179b\u1781\u17b6\u1784\u1787\u17be\u1784",
-      "Cambodian"
+      "follicule",
+      "French"
     ],
     [
-      "coniglio",
-      "Italian"
+      "\uc0e4\uc774\ub2dd\uc5d0",
+      "Korean"
     ],
     [
-      "vezettet",
-      "Hungarian"
+      "palestiina",
+      "Finnish"
     ],
     [
-      "\u6930\u5b50\u957f\u5728\u4ec0\u4e48\u6811\u4e0a",
-      "Chinese"
+      "brist",
+      "Swedish"
     ]
   ],
   "languages": [
