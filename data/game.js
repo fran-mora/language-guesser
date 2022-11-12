@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "Y1NPW",
+  "id": "4EUHO",
   "games": [
     [
-      "wschodzi",
-      "Polish"
+      "pariente",
+      "Spanish"
     ],
     [
-      "follicule",
-      "French"
+      "k\u00f6t\u00fcl\u00fck",
+      "Turkish"
     ],
     [
-      "\uc0e4\uc774\ub2dd\uc5d0",
-      "Korean"
+      "sejr",
+      "Danish"
     ],
     [
-      "palestiina",
-      "Finnish"
+      "misura",
+      "Italian"
     ],
     [
-      "brist",
-      "Swedish"
+      "\u062f\u0644\u0627\u0644\u0629",
+      "Arabic"
     ]
   ],
   "languages": [
