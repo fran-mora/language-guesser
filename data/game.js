@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "RRPV2",
+  "id": "CWBYK",
   "games": [
     [
-      "ringeklokke",
+      "\u05d4\u05e7\u05e1\u05d8\u05d4",
+      "Hebrew"
+    ],
+    [
+      "dokumenterte",
       "Norwegian"
     ],
     [
-      "ph\u01b0\u01a1ng",
-      "Vietnamese"
+      "\ud1a0\ub9c8\uc2a4\uac00",
+      "Korean"
     ],
     [
-      "guardiacaccia",
-      "Italian"
+      "\u1798\u17b7\u1793\u178a\u17c2\u179b\u1793\u17b9\u1784\u17a2\u1793\u17bb\u1789\u17d2\u1789\u17b6\u178f\u17b1\u17d2\u1799\u17a2\u17d2\u1793\u1780\u1791\u17c5\u179b\u17c4\u1780",
+      "Cambodian"
     ],
     [
-      "\u0633\u0623\u0641\u0639\u0644",
-      "Arabic"
-    ],
-    [
-      "tilbake",
-      "Norwegian"
+      "grundl\u00e6ggere",
+      "Danish"
     ]
   ],
   "languages": [
