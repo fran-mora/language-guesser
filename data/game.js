@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "CWBYK",
+  "id": "ESL67",
   "games": [
     [
-      "\u05d4\u05e7\u05e1\u05d8\u05d4",
-      "Hebrew"
+      "\u30d7\u30ea\u30ba\u30f3\u30d6\u30ec\u30a4\u30af\u306e\u65b0\u30b7\u30ea\u30fc\u30ba\u304c\u59cb\u307e\u308b\u306e\u306f\u3044\u3064\u304b",
+      "Japanese"
     ],
     [
-      "dokumenterte",
-      "Norwegian"
+      "mi\u1ec7n",
+      "Vietnamese"
     ],
     [
-      "\ud1a0\ub9c8\uc2a4\uac00",
-      "Korean"
+      "unterst\u00fctzt",
+      "German"
     ],
     [
-      "\u1798\u17b7\u1793\u178a\u17c2\u179b\u1793\u17b9\u1784\u17a2\u1793\u17bb\u1789\u17d2\u1789\u17b6\u178f\u17b1\u17d2\u1799\u17a2\u17d2\u1793\u1780\u1791\u17c5\u179b\u17c4\u1780",
-      "Cambodian"
+      "utbyte",
+      "Swedish"
     ],
     [
-      "grundl\u00e6ggere",
-      "Danish"
+      "degradable",
+      "English"
     ]
   ],
   "languages": [
