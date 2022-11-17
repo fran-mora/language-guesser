@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "ESL67",
+  "id": "JLR1X",
   "games": [
     [
-      "\u30d7\u30ea\u30ba\u30f3\u30d6\u30ec\u30a4\u30af\u306e\u65b0\u30b7\u30ea\u30fc\u30ba\u304c\u59cb\u307e\u308b\u306e\u306f\u3044\u3064\u304b",
-      "Japanese"
+      "\u6587\u4ef6\u7684\u7528\u9014\u662f\u4ec0\u4e48",
+      "Chinese"
     ],
     [
-      "mi\u1ec7n",
-      "Vietnamese"
+      "gostaria",
+      "Portuguese"
     ],
     [
-      "unterst\u00fctzt",
-      "German"
+      "atos",
+      "Portuguese"
     ],
     [
-      "utbyte",
-      "Swedish"
+      "\u0e43\u0e04\u0e23\u0e04\u0e37\u0e2d\u0e1c\u0e39\u0e49\u0e17\u0e33\u0e2a\u0e16\u0e34\u0e15\u0e34\u0e01\u0e25\u0e31\u0e49\u0e19\u0e2b\u0e32\u0e22\u0e43\u0e08\u0e44\u0e14\u0e49\u0e19\u0e32\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14",
+      "Thai"
     ],
     [
-      "degradable",
-      "English"
+      "\ubc95\uc6d0\uc758",
+      "Korean"
     ]
   ],
   "languages": [
