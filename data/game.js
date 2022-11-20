@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "NAZT2",
+  "id": "5VE87",
   "games": [
     [
-      "saarten",
-      "Finnish"
+      "\u0111\u00edch",
+      "Vietnamese"
     ],
     [
-      "\u8054\u5408\u975e\u653f\u5e9c\u7ec4\u7ec7\u7684\u76ee\u7684\u662f\u4ec0\u4e48",
-      "Chinese"
+      "\u0e40\u0e01\u0e21",
+      "Thai"
     ],
     [
-      "\u00e9cossaise",
-      "French"
+      "\uc124\uc815\uc740",
+      "Korean"
     ],
     [
-      "\u00bfqu\u00e9",
-      "Spanish"
+      "darab",
+      "Hungarian"
     ],
     [
-      "reduzir",
-      "Portuguese"
+      "kosztowa\u0142o",
+      "Polish"
     ]
   ],
   "languages": [
