@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "XQ9IQ",
+  "id": "APHT8",
   "games": [
     [
-      "b\u00f8lgelengde",
-      "Norwegian"
+      "\u043a\u043b\u0430\u0441\u0441\u0430",
+      "Russian"
     ],
     [
-      "focizik",
-      "Hungarian"
+      "solid",
+      "English"
     ],
     [
-      "passager",
-      "Danish"
+      "robina",
+      "Polish"
     ],
     [
-      "bukanlah",
+      "menewaskan",
       "Malay"
     ],
     [
-      "hisznek",
-      "Hungarian"
+      "ausrichten",
+      "German"
     ]
   ],
   "languages": [
