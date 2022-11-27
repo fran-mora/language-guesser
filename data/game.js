@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "APHT8",
+  "id": "YX9UI",
   "games": [
     [
-      "\u043a\u043b\u0430\u0441\u0441\u0430",
-      "Russian"
+      "bras",
+      "French"
     ],
     [
-      "solid",
-      "English"
+      "braccia",
+      "Italian"
     ],
     [
-      "robina",
-      "Polish"
-    ],
-    [
-      "menewaskan",
+      "termometer",
       "Malay"
     ],
     [
-      "ausrichten",
-      "German"
+      "opiniones",
+      "Spanish"
+    ],
+    [
+      "\u4ece\u8fd9\u91cc\u5230\u65e5\u672c\u6709\u591a\u8fdc",
+      "Chinese"
     ]
   ],
   "languages": [
