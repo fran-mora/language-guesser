@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "EWY8Z",
+  "id": "UJSFB",
   "games": [
     [
-      "autob\u00fas",
-      "Spanish"
-    ],
-    [
-      "\u05e7\u05d5\u05dc\u05d5\u05de\u05d1\u05d9\u05d4",
-      "Hebrew"
-    ],
-    [
-      "sotilaiden",
+      "suhteella",
       "Finnish"
     ],
     [
-      "zakochany",
-      "Polish"
+      "heure",
+      "French"
     ],
     [
-      "m\u00f8de",
+      "computermus",
       "Danish"
+    ],
+    [
+      "egyetemen",
+      "Hungarian"
+    ],
+    [
+      "\u043a\u044d\u0440\u0440\u043e\u043b\u043b",
+      "Russian"
     ]
   ],
   "languages": [
