@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "UJSFB",
+  "id": "W4CEI",
   "games": [
     [
-      "suhteella",
+      "joululoman",
       "Finnish"
     ],
     [
-      "heure",
-      "French"
+      "\u0e01\u0e31\u0e1a\u0e2a\u0e40\u0e15\u0e47\u0e01\u0e44\u0e01\u0e48\u0e17\u0e2d\u0e14",
+      "Thai"
     ],
     [
-      "computermus",
-      "Danish"
+      "\u05d8\u05e4\u05d8",
+      "Hebrew"
     ],
     [
-      "egyetemen",
-      "Hungarian"
+      "\u05d5\u05d3\u05d5\u05df",
+      "Hebrew"
     ],
     [
-      "\u043a\u044d\u0440\u0440\u043e\u043b\u043b",
-      "Russian"
+      "\u30d1\u30a4\u30ca\u30c3\u30d7\u30eb\u3068\u828b\u306f\u3082\u3068\u3082\u3068\u3069\u3053\u304b\u3089\u6765\u307e\u3057\u305f\u304b",
+      "Japanese"
     ]
   ],
   "languages": [
