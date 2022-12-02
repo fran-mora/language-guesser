@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "4F5TE",
+  "id": "SYK0F",
   "games": [
     [
-      "\u1785\u17c6\u1793\u17bd\u1793\u1793\u17c3\u17a2\u17d2\u1793\u1780\u1780\u17b6\u1793\u17cb\u179b\u17b7\u1781\u17b7\u178f\u1786\u17d2\u179b\u1784\u178a\u17c2\u1793",
-      "Cambodian"
+      "\ud2b8\ub85c\ud53c\ub97c",
+      "Korean"
     ],
     [
-      "\u30ea\u30c3\u30af\u30fb\u30a2\u30f3\u30c9\u30fb\u30e2\u30fc\u30c6\u30a3\u3068\u30d0\u30c3\u30af\u30fb\u30c8\u30a5\u30fb\u30b6\u30fb\u30d5\u30e5\u30fc\u30c1\u30e3\u30fc\u306e\u95a2\u4fc2",
+      "g\u00f6ster",
+      "Turkish"
+    ],
+    [
+      "kruiden",
+      "Dutch"
+    ],
+    [
+      "synnytyksen",
+      "Finnish"
+    ],
+    [
+      "\u30b9\u30bf\u30fc\u30bf\u30fc\u30ea\u30ec\u30fc\u3068\u30b9\u30bf\u30fc\u30bf\u30fc\u30bd\u30ec\u30ce\u30a4\u30c9\u306e\u9055\u3044\u306f\u4f55",
       "Japanese"
-    ],
-    [
-      "\u05d4\u05e4\u05d5\u05e4\u05d5\u05dc\u05e8\u05d9\u05ea",
-      "Hebrew"
-    ],
-    [
-      "implemented",
-      "English"
-    ],
-    [
-      "ruleta",
-      "Spanish"
     ]
   ],
   "languages": [
