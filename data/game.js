@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "RTR1D",
+  "id": "5IODE",
   "games": [
     [
-      "willa",
-      "Polish"
-    ],
-    [
-      "\u53ef\u4ee5\u7528\u6765\u8d5a\u94b1\u7684\u586b\u5b57\u6e38\u620f",
+      "\u4ed6\u4eec\u90fd\u505a\u8fc7\u4e9b\u4ec0\u4e48",
       "Chinese"
     ],
     [
-      "externaliteit",
-      "Dutch"
+      "odpust",
+      "Polish"
     ],
     [
-      "doodstraf",
-      "Dutch"
+      "\u5e95\u7279\u5f8b\u5927\u5b66\u9884\u5907\u9ad8\u4e2d\u4f4d\u4e8e\u5e95\u7279\u5f8b\u5e02\u897f\u5317\u90e8",
+      "Chinese"
     ],
     [
-      "\u0433\u043e\u0440\u043e\u0434",
-      "Russian"
+      "r\u00f3\u017cnice",
+      "Polish"
+    ],
+    [
+      "relativitetsteori",
+      "Danish"
     ]
   ],
   "languages": [
