@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "5IODE",
+  "id": "RCT48",
   "games": [
     [
-      "\u4ed6\u4eec\u90fd\u505a\u8fc7\u4e9b\u4ec0\u4e48",
-      "Chinese"
+      "premiyer",
+      "Turkish"
     ],
     [
-      "odpust",
-      "Polish"
+      "\u05de\u05d7\u05d9\u05e8\u05d5",
+      "Hebrew"
     ],
     [
-      "\u5e95\u7279\u5f8b\u5927\u5b66\u9884\u5907\u9ad8\u4e2d\u4f4d\u4e8e\u5e95\u7279\u5f8b\u5e02\u897f\u5317\u90e8",
-      "Chinese"
+      "dublado",
+      "Portuguese"
     ],
     [
-      "r\u00f3\u017cnice",
-      "Polish"
+      "\u178f\u17be\u1780\u17c4\u179f\u17b7\u1780\u17b6\u1798\u17c1\u1793\u17c5\u1780\u17d2\u1793\u17bb\u1784",
+      "Cambodian"
     ],
     [
-      "relativitetsteori",
-      "Danish"
+      "tunnelbanestation",
+      "Swedish"
     ]
   ],
   "languages": [
