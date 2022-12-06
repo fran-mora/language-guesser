@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "RCT48",
+  "id": "EE4IM",
   "games": [
     [
-      "premiyer",
-      "Turkish"
+      "\u0432\u044b\u0441\u0442\u0440\u0435\u043b",
+      "Russian"
     ],
     [
-      "\u05de\u05d7\u05d9\u05e8\u05d5",
-      "Hebrew"
+      "\u7b2c\u4e00\u90e8\u94f6\u6cb3\u62a4\u536b\u961f\u7535\u5f71\u662f\u4f55\u65f6\u51fa\u54c1\u7684",
+      "Chinese"
     ],
     [
-      "dublado",
+      "ocurrio",
+      "Spanish"
+    ],
+    [
+      "liikaa",
+      "Finnish"
+    ],
+    [
+      "aleluia",
       "Portuguese"
-    ],
-    [
-      "\u178f\u17be\u1780\u17c4\u179f\u17b7\u1780\u17b6\u1798\u17c1\u1793\u17c5\u1780\u17d2\u1793\u17bb\u1784",
-      "Cambodian"
-    ],
-    [
-      "tunnelbanestation",
-      "Swedish"
     ]
   ],
   "languages": [
