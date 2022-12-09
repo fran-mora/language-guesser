@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "98ALO",
+  "id": "1PG10",
   "games": [
     [
-      "ilhas",
+      "liberi",
+      "Italian"
+    ],
+    [
+      "bendera",
+      "Malay"
+    ],
+    [
+      "\u05e9\u05e2\u05d5\u05e9\u05d9\u05dd",
+      "Hebrew"
+    ],
+    [
+      "inclu\u00eddo",
       "Portuguese"
     ],
     [
-      "yadigar",
-      "Turkish"
-    ],
-    [
-      "b\u00eates",
-      "French"
-    ],
-    [
-      "krigsfangene",
-      "Norwegian"
-    ],
-    [
-      "\uc131\ubd84\uc774\ub2e4",
-      "Korean"
+      "\u5728\u6fb3\u5927\u5229\u4e9a\u54ea\u91cc",
+      "Chinese"
     ]
   ],
   "languages": [
