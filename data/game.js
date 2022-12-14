@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "Q2DR0",
+  "id": "9WHTN",
   "games": [
     [
-      "nationalparks",
+      "representanternas",
+      "Swedish"
+    ],
+    [
+      "overtroen",
+      "Norwegian"
+    ],
+    [
+      "vergeleken",
+      "Dutch"
+    ],
+    [
+      "homininen",
       "German"
     ],
     [
-      "terroriste",
-      "French"
-    ],
-    [
-      "\u05d4\u05e4\u05d9\u05dc\u05d9\u05e4\u05d9\u05e0\u05d9\u05dd",
+      "\u05de\u05d5\u05d3\u05d9",
       "Hebrew"
-    ],
-    [
-      "sufragio",
-      "Spanish"
-    ],
-    [
-      "lun\u0119",
-      "Polish"
     ]
   ],
   "languages": [
