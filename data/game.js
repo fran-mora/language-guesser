@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "3JIMF",
+  "id": "5FCBN",
   "games": [
     [
-      "diperkenalkan",
-      "Malay"
+      "attenhundretallet",
+      "Norwegian"
     ],
     [
-      "governmental",
-      "English"
+      "\u771f\u590f\u306e\u591c\u306e\u5922\u306f\u3069\u3053\u3067\u66f8\u304b\u308c\u307e\u3057\u305f\u304b",
+      "Japanese"
     ],
     [
-      "werbespots",
-      "German"
+      "gr\u00f8nsag",
+      "Danish"
     ],
     [
-      "h\u1ee9ng",
-      "Vietnamese"
+      "\u00e7izgisi",
+      "Turkish"
     ],
     [
-      "\uc544\ud3f4\ub85c",
-      "Korean"
+      "\u0e20\u0e32\u0e29\u0e35\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e43\u0e19\u0e41\u0e04\u0e25\u0e34\u0e1f\u0e2d\u0e23\u0e4c\u0e40\u0e19\u0e35\u0e22\u0e04\u0e37\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48",
+      "Thai"
     ]
   ],
   "languages": [
