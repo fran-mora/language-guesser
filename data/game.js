@@ -1,24 +1,24 @@
 var GAME = {
-  "id": "SZ3GE",
+  "id": "L8AEG",
   "games": [
     [
-      "mentarifkan",
-      "Malay"
+      "stationed",
+      "English"
     ],
     [
-      "salaisuuksien",
-      "Finnish"
+      "kliken",
+      "Danish"
     ],
     [
-      "barniz",
-      "Spanish"
+      "sunburn",
+      "English"
     ],
     [
-      "zusch\u00fcsse",
-      "German"
+      "snehvide",
+      "Danish"
     ],
     [
-      "proteinde",
+      "mucidi",
       "Turkish"
     ]
   ],
