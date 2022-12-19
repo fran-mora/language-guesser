@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "L8AEG",
+  "id": "LA0OY",
   "games": [
     [
-      "stationed",
-      "English"
+      "bastilha",
+      "Portuguese"
     ],
     [
-      "kliken",
+      "penjahat",
+      "Malay"
+    ],
+    [
+      "distribut\u00f8rtype",
       "Danish"
     ],
     [
-      "sunburn",
-      "English"
+      "recensie",
+      "Dutch"
     ],
     [
-      "snehvide",
-      "Danish"
-    ],
-    [
-      "mucidi",
-      "Turkish"
+      "\u178a\u17c2\u179b\u1787\u17b6\u1780\u1793\u17d2\u179b\u17c2\u1784\u178a\u17c2\u179b\u1787\u17b6\u179a\u17bf\u1784\u1796\u17d2\u179a\u17c1\u1784\u1793\u17c3\u1794\u17d2\u179a\u17a0\u17c4\u1784\u1784\u1784\u17bb\u1799\u1782\u17c1\u1784\u178a\u17c2\u179b\u1798\u17b6\u1793\u1798\u17bc\u179b\u178a\u17d2\u178b\u17b6\u1793",
+      "Cambodian"
     ]
   ],
   "languages": [
