@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "NWF36",
+  "id": "UR94Z",
   "games": [
     [
-      "balanceret",
-      "Danish"
+      "\u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0438",
+      "Russian"
     ],
     [
-      "mytho",
-      "French"
+      "\u0643\u0628\u064a\u0631\u0629",
+      "Arabic"
     ],
     [
-      "excepto",
-      "Spanish"
+      "konto\u00e5pningsform",
+      "Norwegian"
     ],
     [
-      "expresiones",
-      "Spanish"
+      "oficjalna",
+      "Polish"
     ],
     [
-      "jaksoista",
-      "Finnish"
+      "\uc5b8\uc5b4\uc5d0",
+      "Korean"
     ]
   ],
   "languages": [
