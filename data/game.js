@@ -1,25 +1,25 @@
 var GAME = {
-  "id": "CINNP",
+  "id": "76LTG",
   "games": [
     [
-      "\ubc95\uc744",
-      "Korean"
+      "\u306e\u753b\u50cf",
+      "Japanese"
     ],
     [
-      "tatuera",
-      "Swedish"
+      "p\u00e4\u00e4piirteet",
+      "Finnish"
     ],
     [
-      "implantat",
+      "perioderad",
       "Norwegian"
     ],
     [
-      "\u17a2\u17d2\u179c\u17b8\u178a\u17c2\u179b\u1794\u17b6\u1793\u1780\u17be\u178f\u17a1\u17be\u1784\u1785\u17c6\u1796\u17c4\u17c7\u1791\u17b8\u1780\u17d2\u179a\u17bb\u1784\u1798\u17b8\u179f\u17ca\u17b8\u178e\u17b6\u1799\u1793\u17b7\u1784\u179f\u179a\u179f\u17c1\u179a\u1793\u17c5\u179f\u1798\u17d0\u1799\u1793\u17c1\u17c7",
-      "Cambodian"
+      "przyjacielem",
+      "Polish"
     ],
     [
-      "stephe",
-      "Portuguese"
+      "kilat",
+      "Malay"
     ]
   ],
   "languages": [
